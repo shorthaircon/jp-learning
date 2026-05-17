@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 font-jp antialiased;
+}
+
+/* 振假名顯示控制：預設隱藏 rt，加 .furigana-on 才顯示 */
+ruby rt {
+  display: none;
+}
+.furigana-on ruby rt {
+  display: revert;
+  font-size: 0.6em;
+  color: #94a3b8;
+}
+
+/* 解析裡的 markdown 排版 */
+.prose-jp {
+  @apply text-slate-200 leading-relaxed;
+}
+.prose-jp p { @apply my-2; }
+.prose-jp ul { @apply my-2 pl-5 list-disc; }
+.prose-jp li { @apply my-1; }
+.prose-jp strong { @apply text-amber-300; }
+.prose-jp u { @apply underline decoration-sky-400; }
+.prose-jp s {
+  text-decoration: line-through;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #f87171;
+  color: #fca5a5;
+}

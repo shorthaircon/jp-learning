@@ -1,0 +1,11 @@
+{
+  "id": "n3-完勝500",
+  "title": "日檢完勝 500 題 N3",
+  "level": "N3",
+  "totalQuestions": 500,
+  "weeks": 4,
+  "daysPerWeek": 7,
+  "reviewDay": 7,
+  "questionsPerNormalDay": 15,
+  "questionsPerReviewDay": 35
+}
