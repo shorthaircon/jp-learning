@@ -1539,7 +1539,10 @@
     "isReview": true,
     "referenceQuestion": 31,
     "question": "バスで<u>空港</u>へ<ruby>行<rt>い</rt></ruby>く。",
-    "choices": ["くうこう", "こうくう"],
+    "choices": [
+      "くうこう",
+      "こうくう"
+    ],
     "answer": 0,
     "explanation": "對應原題 #31"
   },
@@ -1553,7 +1556,10 @@
     "isReview": true,
     "referenceQuestion": 6,
     "question": "<ruby>午後<rt>ごご</rt></ruby>は<u>じゆう</u>に<ruby>行動<rt>こうどう</rt></ruby>してください。",
-    "choices": ["自由", "理由"],
+    "choices": [
+      "自由",
+      "理由"
+    ],
     "answer": 0,
     "explanation": "對應原題 #6"
   },
@@ -1567,7 +1573,10 @@
     "isReview": true,
     "referenceQuestion": 17,
     "question": "<ruby>昨日<rt>きのう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>では、よいアイデアが＿＿＿<ruby>発表<rt>はっぴょう</rt></ruby>された。",
-    "choices": ["ところどころ", "つぎつぎに"],
+    "choices": [
+      "ところどころ",
+      "つぎつぎに"
+    ],
     "answer": 1,
     "explanation": "對應原題 #17"
   },
@@ -1581,7 +1590,10 @@
     "isReview": true,
     "referenceQuestion": 56,
     "question": "＿＿＿しなさい。",
-    "choices": ["えんりょ", "いいかげんに"],
+    "choices": [
+      "えんりょ",
+      "いいかげんに"
+    ],
     "answer": 1,
     "explanation": "對應原題 #56"
   },
@@ -1595,7 +1607,10 @@
     "isReview": true,
     "referenceQuestion": 69,
     "question": "<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>試験問題<rt>しけんもんだい</rt></ruby>は、<ruby>一昨年<rt>おととし</rt></ruby>＿＿＿<ruby>少<rt>すこ</rt></ruby>し<ruby>易<rt>やさ</rt></ruby>しくなった。",
-    "choices": ["にくらべて", "にくわえて"],
+    "choices": [
+      "にくらべて",
+      "にくわえて"
+    ],
     "answer": 0,
     "explanation": "對應原題 #69"
   },
@@ -1609,7 +1624,10 @@
     "isReview": true,
     "referenceQuestion": 48,
     "question": "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>な<ruby>会議<rt>かいぎ</rt></ruby>がある。<ruby>遅<rt>おく</rt></ruby>れない＿＿＿いつもより<ruby>早<rt>はや</rt></ruby>く<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>よう。",
-    "choices": ["ために", "ように"],
+    "choices": [
+      "ために",
+      "ように"
+    ],
     "answer": 1,
     "explanation": "對應原題 #48"
   },
@@ -1623,7 +1641,10 @@
     "isReview": true,
     "referenceQuestion": 34,
     "question": "<ruby>授業<rt>じゅぎょう</rt></ruby>に<u>遅れない</u>ようにしてください。",
-    "choices": ["おそれない", "おくれない"],
+    "choices": [
+      "おそれない",
+      "おくれない"
+    ],
     "answer": 1,
     "explanation": "對應原題 #34"
   },
@@ -1637,7 +1658,10 @@
     "isReview": true,
     "referenceQuestion": 16,
     "question": "こんな<ruby>事<rt>こと</rt></ruby>があるなんて、<u>しんじられない</u>。",
-    "choices": ["信じられない", "真じられない"],
+    "choices": [
+      "信じられない",
+      "真じられない"
+    ],
     "answer": 0,
     "explanation": "對應原題 #16"
   },
@@ -1651,7 +1675,10 @@
     "isReview": true,
     "referenceQuestion": 41,
     "question": "<ruby>田中先生<rt>たなかせんせい</rt></ruby>は、＿＿＿こわいけれど、とてもいい<ruby>先生<rt>せんせい</rt></ruby>です。",
-    "choices": ["きびしくて", "けわしくて"],
+    "choices": [
+      "きびしくて",
+      "けわしくて"
+    ],
     "answer": 0,
     "explanation": "對應原題 #41"
   },
@@ -1665,7 +1692,10 @@
     "isReview": true,
     "referenceQuestion": 80,
     "question": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>小学生<rt>しょうがくせい</rt></ruby>のころ、＿＿＿<ruby>友<rt>とも</rt></ruby>だちも<ruby>少<rt>すく</rt></ruby>なかったです。",
-    "choices": ["ほがらかで", "おとなしくて"],
+    "choices": [
+      "ほがらかで",
+      "おとなしくて"
+    ],
     "answer": 1,
     "explanation": "對應原題 #80"
   },
@@ -1679,7 +1709,10 @@
     "isReview": true,
     "referenceQuestion": 54,
     "question": "A「<ruby>怒<rt>おこ</rt></ruby>らないで。」B「＿＿＿いない、<ruby>心配<rt>しんぱい</rt></ruby>しているんだ。」",
-    "choices": ["<ruby>怒<rt>おこ</rt></ruby>ってなんか", "<ruby>怒<rt>おこ</rt></ruby>ってばかり"],
+    "choices": [
+      "<ruby>怒<rt>おこ</rt></ruby>ってなんか",
+      "<ruby>怒<rt>おこ</rt></ruby>ってばかり"
+    ],
     "answer": 0,
     "explanation": "對應原題 #54"
   },
@@ -1693,7 +1726,10 @@
     "isReview": true,
     "referenceQuestion": 9,
     "question": "いつも<ruby>助<rt>たす</rt></ruby>けて＿＿＿ありがとう。",
-    "choices": ["もらえて", "くれて"],
+    "choices": [
+      "もらえて",
+      "くれて"
+    ],
     "answer": 1,
     "explanation": "對應原題 #9"
   },
@@ -1707,7 +1743,10 @@
     "isReview": true,
     "referenceQuestion": 10,
     "question": "<u>果物</u>が<ruby>好<rt>す</rt></ruby>きです。",
-    "choices": ["くだもの", "こども"],
+    "choices": [
+      "くだもの",
+      "こども"
+    ],
     "answer": 0,
     "explanation": "對應原題 #10"
   },
@@ -1721,7 +1760,10 @@
     "isReview": true,
     "referenceQuestion": 16,
     "question": "この<u>きょく</u>を<ruby>聞<rt>き</rt></ruby>くと<ruby>国<rt>くに</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>す。",
-    "choices": ["号", "曲"],
+    "choices": [
+      "号",
+      "曲"
+    ],
     "answer": 1,
     "explanation": "對應原題 #16"
   },
@@ -1735,7 +1777,10 @@
     "isReview": true,
     "referenceQuestion": 17,
     "question": "＿＿＿が<ruby>良<rt>よ</rt></ruby>い<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけましょう。",
-    "choices": ["テーマ", "バランス"],
+    "choices": [
+      "テーマ",
+      "バランス"
+    ],
     "answer": 1,
     "explanation": "對應原題 #17"
   },
@@ -1749,7 +1794,10 @@
     "isReview": true,
     "referenceQuestion": 74,
     "question": "そんな<ruby>易<rt>やさ</rt></ruby>しい<ruby>計算<rt>けいさん</rt></ruby>もできないなんて、<ruby>本当<rt>ほんとう</rt></ruby>に＿＿＿。",
-    "choices": ["あきられる", "あきれる"],
+    "choices": [
+      "あきられる",
+      "あきれる"
+    ],
     "answer": 1,
     "explanation": "對應原題 #74"
   },
@@ -1763,7 +1811,10 @@
     "isReview": true,
     "referenceQuestion": 57,
     "question": "<ruby>電話<rt>でんわ</rt></ruby>もメールも<ruby>通<rt>つう</rt></ruby>じないなら、<ruby>遠<rt>とお</rt></ruby>くても<ruby>行<rt>い</rt></ruby>く＿＿＿。",
-    "choices": ["しかない", "だけある"],
+    "choices": [
+      "しかない",
+      "だけある"
+    ],
     "answer": 0,
     "explanation": "對應原題 #57"
   },
@@ -1777,7 +1828,10 @@
     "isReview": true,
     "referenceQuestion": 48,
     "question": "<ruby>割<rt>わ</rt></ruby>れない＿＿＿、そっと<ruby>置<rt>お</rt></ruby>いてください。",
-    "choices": ["ように", "ために"],
+    "choices": [
+      "ように",
+      "ために"
+    ],
     "answer": 0,
     "explanation": "對應原題 #48"
   },
@@ -1791,7 +1845,10 @@
     "isReview": true,
     "referenceQuestion": 70,
     "question": "ここはお<ruby>年寄<rt>としよ</rt></ruby>りのための<u>優先席</u>です。",
-    "choices": ["ようせんせき", "ゆうせんせき"],
+    "choices": [
+      "ようせんせき",
+      "ゆうせんせき"
+    ],
     "answer": 1,
     "explanation": "對應原題 #70"
   },
@@ -1805,7 +1862,10 @@
     "isReview": true,
     "referenceQuestion": 34,
     "question": "お<ruby>皿<rt>さら</rt></ruby>を<u>わって</u>しまった。",
-    "choices": ["割って", "折って"],
+    "choices": [
+      "割って",
+      "折って"
+    ],
     "answer": 0,
     "explanation": "對應原題 #34"
   },
@@ -1819,7 +1879,10 @@
     "isReview": true,
     "referenceQuestion": 29,
     "question": "A「＿＿＿。」B「<ruby>気<rt>き</rt></ruby>をつけて。また<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>てください。」",
-    "choices": ["おじゃましました", "しょうちしました"],
+    "choices": [
+      "おじゃましました",
+      "しょうちしました"
+    ],
     "answer": 0,
     "explanation": "對應原題 #29"
   },
@@ -1833,7 +1896,10 @@
     "isReview": true,
     "referenceQuestion": 77,
     "question": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>に＿＿＿が、<ruby>何<rt>なに</rt></ruby>も<ruby>言<rt>い</rt></ruby>えなかった。",
-    "choices": ["<ruby>腹<rt>はら</rt></ruby>にきた", "<ruby>頭<rt>あたま</rt></ruby>にきた"],
+    "choices": [
+      "<ruby>腹<rt>はら</rt></ruby>にきた",
+      "<ruby>頭<rt>あたま</rt></ruby>にきた"
+    ],
     "answer": 1,
     "explanation": "對應原題 #77"
   },
@@ -1847,7 +1913,10 @@
     "isReview": true,
     "referenceQuestion": 60,
     "question": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>＿＿＿、サクラですね。",
-    "choices": ["というより", "といえば"],
+    "choices": [
+      "というより",
+      "といえば"
+    ],
     "answer": 1,
     "explanation": "對應原題 #60"
   },
@@ -1861,7 +1930,10 @@
     "isReview": true,
     "referenceQuestion": 45,
     "question": "<ruby>私<rt>わたし</rt></ruby>は<ruby>夫<rt>おっと</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>を＿＿＿。",
-    "choices": ["してほしくない", "しなくてはいけない"],
+    "choices": [
+      "してほしくない",
+      "しなくてはいけない"
+    ],
     "answer": 0,
     "explanation": "對應原題 #45"
   },
@@ -1875,7 +1947,10 @@
     "isReview": true,
     "referenceQuestion": 31,
     "question": "<u>夫婦</u>で<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>く。",
-    "choices": ["ふうふ", "ふふふ"],
+    "choices": [
+      "ふうふ",
+      "ふふふ"
+    ],
     "answer": 0,
     "explanation": "對應原題 #31"
   },
@@ -1889,7 +1964,10 @@
     "isReview": true,
     "referenceQuestion": 49,
     "question": "<ruby>鳥<rt>とり</rt></ruby>が<u>とんで</u>いる。",
-    "choices": ["込んで", "飛んで"],
+    "choices": [
+      "込んで",
+      "飛んで"
+    ],
     "answer": 1,
     "explanation": "對應原題 #49"
   },
@@ -1903,7 +1981,10 @@
     "isReview": true,
     "referenceQuestion": 89,
     "question": "<ruby>田舎<rt>いなか</rt></ruby>に<ruby>広<rt>ひろ</rt></ruby>い＿＿＿があるから、そこに<ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てるつもりはない。",
-    "choices": ["<ruby>土地<rt>とち</rt></ruby>", "<ruby>地方<rt>ちほう</rt></ruby>"],
+    "choices": [
+      "<ruby>土地<rt>とち</rt></ruby>",
+      "<ruby>地方<rt>ちほう</rt></ruby>"
+    ],
     "answer": 0,
     "explanation": "對應原題 #89"
   },
@@ -1917,7 +1998,10 @@
     "isReview": true,
     "referenceQuestion": 86,
     "question": "A「<ruby>今度<rt>こんど</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>いつか<ruby>知<rt>し</rt></ruby>ってる？」B「＿＿＿、<ruby>来月<rt>らいげつ</rt></ruby>の10<ruby>日<rt>か</rt></ruby>だったと<ruby>思<rt>おも</rt></ruby>うけど。」",
-    "choices": ["<ruby>確<rt>たし</rt></ruby>かに", "<ruby>確<rt>たし</rt></ruby>か"],
+    "choices": [
+      "<ruby>確<rt>たし</rt></ruby>かに",
+      "<ruby>確<rt>たし</rt></ruby>か"
+    ],
     "answer": 1,
     "explanation": "對應原題 #86"
   },
@@ -1931,7 +2015,10 @@
     "isReview": true,
     "referenceQuestion": 78,
     "question": "A「あ、リーさんだ。」B「え、リーさんの＿＿＿。<ruby>国<rt>くに</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ったんだから。」",
-    "choices": ["はずじゃない", "はずがない"],
+    "choices": [
+      "はずじゃない",
+      "はずがない"
+    ],
     "answer": 1,
     "explanation": "對應原題 #78"
   },
@@ -1945,7 +2032,10 @@
     "isReview": true,
     "referenceQuestion": 75,
     "question": "お<ruby>正月料理<rt>しょうがつりょうり</rt></ruby>も<ruby>地方<rt>ちほう</rt></ruby>や<ruby>家<rt>いえ</rt></ruby>＿＿＿<ruby>違<rt>ちが</rt></ruby>う。",
-    "choices": ["にそって", "によって"],
+    "choices": [
+      "にそって",
+      "によって"
+    ],
     "answer": 1,
     "explanation": "對應原題 #75"
   },
@@ -1959,7 +2049,10 @@
     "isReview": true,
     "referenceQuestion": 55,
     "question": "<ruby>紙<rt>かみ</rt></ruby>を<u>三角</u>におります。",
-    "choices": ["さんかく", "みつかど"],
+    "choices": [
+      "さんかく",
+      "みつかど"
+    ],
     "answer": 0,
     "explanation": "對應原題 #55"
   },
@@ -1973,7 +2066,10 @@
     "isReview": true,
     "referenceQuestion": 64,
     "question": "<ruby>旅館<rt>りょかん</rt></ruby>に<u>とまる</u>。",
-    "choices": ["泊まる", "宿まる"],
+    "choices": [
+      "泊まる",
+      "宿まる"
+    ],
     "answer": 0,
     "explanation": "對應原題 #64"
   },
@@ -1987,7 +2083,10 @@
     "isReview": true,
     "referenceQuestion": 44,
     "question": "おなかがすきすぎて、＿＿＿。",
-    "choices": ["ころびそうだ", "たおれそうだ"],
+    "choices": [
+      "ころびそうだ",
+      "たおれそうだ"
+    ],
     "answer": 1,
     "explanation": "對應原題 #44"
   },
@@ -2001,7 +2100,10 @@
     "isReview": true,
     "referenceQuestion": 83,
     "question": "お<ruby>金<rt>かね</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いすぎて、<ruby>帰<rt>かえ</rt></ruby>る<ruby>電車<rt>でんしゃ</rt></ruby>＿＿＿もなくなった。",
-    "choices": ["<ruby>賃<rt>ちん</rt></ruby>", "<ruby>券<rt>けん</rt></ruby>"],
+    "choices": [
+      "<ruby>賃<rt>ちん</rt></ruby>",
+      "<ruby>券<rt>けん</rt></ruby>"
+    ],
     "answer": 0,
     "explanation": "對應原題 #83"
   },
@@ -2015,7 +2117,10 @@
     "isReview": true,
     "referenceQuestion": 90,
     "question": "<ruby>神様<rt>かみさま</rt></ruby>、お<ruby>願<rt>ねが</rt></ruby>い。<ruby>今年<rt>ことし</rt></ruby>はすてきな<ruby>人<rt>ひと</rt></ruby>と<ruby>出会<rt>であ</rt></ruby>えます＿＿＿。",
-    "choices": ["ように", "かなあ"],
+    "choices": [
+      "ように",
+      "かなあ"
+    ],
     "answer": 0,
     "explanation": "對應原題 #90"
   },
@@ -2077,7 +2182,7 @@
     "number": 129,
     "page": 81,
     "type": "もじ",
-    "question": "<ruby>今<rt>いま</rt></ruby>は<u>かんごふ</u>を、「<ruby>かんご<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>」と<u>とびます</u>。",
+    "question": "<ruby>今<rt>いま</rt></ruby>は<u>かんごふ</u>を、「<ruby>かんご<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>」と<u>よびます</u>。",
     "choices": [
       "浴びます",
       "呼びます",
@@ -2085,7 +2190,7 @@
       "遊びます"
     ],
     "answer": 1,
-    "explanation": "**中譯**：現在「看護婦」改稱為「看護師」。\n\n**漢字整理**\n- 婦 フ：<ruby>看護婦<rt>かんごふ</rt></ruby>・<ruby>主婦<rt>しゅふ</rt></ruby>・<ruby>夫婦<rt>ふうふ</rt></ruby>\n- 師 シ：<ruby>看護師<rt>かんごし</rt></ruby>・<ruby>教師<rt>きょうし</rt></ruby>・<ruby>牧師<rt>ぼくし</rt></ruby>\n- 呼 よ(-ぶ)：呼ぶ（稱呼、叫喊）"
+    "explanation": "**中譯**：現在「看護婦」改稱為「看護師」。\n\n**漢字整理**\n- 婦 フ：<ruby>看護婦<rt>かんごふ</rt></ruby>・<ruby>主婦<rt>しゅふ</rt></ruby>・<ruby>夫婦<rt>ふうふ</rt></ruby>\n- 師 シ：<ruby>看護師<rt>かんごし</rt></ruby>・<ruby>教師<rt>きょうし</rt></ruby>\n- 呼 よ(-ぶ)：呼ぶ（稱呼、叫喊）"
   },
   {
     "id": "n3-完勝-q130",
@@ -3559,7 +3664,10 @@
     "isReview": true,
     "referenceQuestion": 202,
     "question": "ビールが<u>冷えて</u>います。",
-    "choices": ["ふえて", "ひえて"],
+    "choices": [
+      "ふえて",
+      "ひえて"
+    ],
     "answer": 1,
     "explanation": "對應原題 #202"
   },
@@ -3573,7 +3681,10 @@
     "isReview": true,
     "referenceQuestion": 135,
     "question": "<u>ひさしぶり</u>に<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>会<rt>あ</rt></ruby>った。",
-    "choices": ["久しぶり", "災しぶり"],
+    "choices": [
+      "久しぶり",
+      "災しぶり"
+    ],
     "answer": 0,
     "explanation": "對應原題 #135"
   },
@@ -3587,7 +3698,10 @@
     "isReview": true,
     "referenceQuestion": 169,
     "question": "この<ruby>子<rt>こ</rt></ruby>が＿＿＿のは、2<ruby>歳<rt>さい</rt></ruby>になってからです。",
-    "choices": ["しゃべり<ruby>出<rt>だ</rt></ruby>した", "<ruby>話<rt>はな</rt></ruby>しかけた"],
+    "choices": [
+      "しゃべり<ruby>出<rt>だ</rt></ruby>した",
+      "<ruby>話<rt>はな</rt></ruby>しかけた"
+    ],
     "answer": 0,
     "explanation": "對應原題 #169"
   },
@@ -3601,7 +3715,10 @@
     "isReview": true,
     "referenceQuestion": 127,
     "question": "<ruby>彼<rt>かれ</rt></ruby>と<ruby>会話<rt>かいわ</rt></ruby>の＿＿＿が<ruby>合<rt>あ</rt></ruby>わない。",
-    "choices": ["チャンス", "テンポ"],
+    "choices": [
+      "チャンス",
+      "テンポ"
+    ],
     "answer": 1,
     "explanation": "對應原題 #127"
   },
@@ -3615,7 +3732,10 @@
     "isReview": true,
     "referenceQuestion": 173,
     "question": "<ruby>妹<rt>いもうと</rt></ruby>は、<ruby>私<rt>わたし</rt></ruby>の<ruby>持<rt>も</rt></ruby>っているものをいつも＿＿＿。",
-    "choices": ["ほしがります", "ほしいはずです"],
+    "choices": [
+      "ほしがります",
+      "ほしいはずです"
+    ],
     "answer": 0,
     "explanation": "對應原題 #173"
   },
@@ -3629,7 +3749,10 @@
     "isReview": true,
     "referenceQuestion": 140,
     "question": "<ruby>工事<rt>こうじ</rt></ruby>の<ruby>音<rt>おと</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなる＿＿＿<ruby>大<rt>おお</rt></ruby>きい。",
-    "choices": ["ばかり", "ほど"],
+    "choices": [
+      "ばかり",
+      "ほど"
+    ],
     "answer": 1,
     "explanation": "對應原題 #140"
   },
@@ -3643,7 +3766,10 @@
     "isReview": true,
     "referenceQuestion": 192,
     "question": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けに<ruby>参<rt>まい</rt></ruby>りましたが、お<u>留守</u>でした。",
-    "choices": ["るしゅ", "るす"],
+    "choices": [
+      "るしゅ",
+      "るす"
+    ],
     "answer": 1,
     "explanation": "對應原題 #192"
   },
@@ -3657,7 +3783,10 @@
     "isReview": true,
     "referenceQuestion": 174,
     "question": "ここは<u>むりょう</u>で<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>められます。",
-    "choices": ["無料", "無両"],
+    "choices": [
+      "無料",
+      "無両"
+    ],
     "answer": 0,
     "explanation": "對應原題 #174"
   },
@@ -3671,7 +3800,10 @@
     "isReview": true,
     "referenceQuestion": 172,
     "question": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>王子<rt>おうじ</rt></ruby>さんの＿＿＿が<ruby>悪<rt>わる</rt></ruby>くて、もう<ruby>帰<rt>かえ</rt></ruby>りましたよ。",
-    "choices": ["<ruby>事情<rt>じじょう</rt></ruby>", "<ruby>具合<rt>ぐあい</rt></ruby>"],
+    "choices": [
+      "<ruby>事情<rt>じじょう</rt></ruby>",
+      "<ruby>具合<rt>ぐあい</rt></ruby>"
+    ],
     "answer": 1,
     "explanation": "對應原題 #172"
   },
@@ -3685,7 +3817,10 @@
     "isReview": true,
     "referenceQuestion": 181,
     "question": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が＿＿＿、<ruby>眠<rt>ねむ</rt></ruby>れない。",
-    "choices": ["<ruby>気<rt>き</rt></ruby>にして", "<ruby>気<rt>き</rt></ruby>になって"],
+    "choices": [
+      "<ruby>気<rt>き</rt></ruby>にして",
+      "<ruby>気<rt>き</rt></ruby>になって"
+    ],
     "answer": 1,
     "explanation": "對應原題 #181"
   },
@@ -3699,7 +3834,10 @@
     "isReview": true,
     "referenceQuestion": 149,
     "question": "<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>移転<rt>いてん</rt></ruby>する＿＿＿。",
-    "choices": ["ことにした", "ことになった"],
+    "choices": [
+      "ことにした",
+      "ことになった"
+    ],
     "answer": 1,
     "explanation": "對應原題 #149"
   },
@@ -3713,7 +3851,10 @@
     "isReview": true,
     "referenceQuestion": 194,
     "question": "<ruby>秘書<rt>ひしょ</rt></ruby>に<ruby>急<rt>きゅう</rt></ruby>に＿＿＿。",
-    "choices": ["<ruby>辞<rt>や</rt></ruby>められた", "<ruby>辞<rt>や</rt></ruby>めさせた"],
+    "choices": [
+      "<ruby>辞<rt>や</rt></ruby>められた",
+      "<ruby>辞<rt>や</rt></ruby>めさせた"
+    ],
     "answer": 0,
     "explanation": "對應原題 #194"
   },
@@ -3727,7 +3868,10 @@
     "isReview": true,
     "referenceQuestion": 138,
     "question": "<u>汚い</u>からさわらないで。",
-    "choices": ["きたない", "よごれい"],
+    "choices": [
+      "きたない",
+      "よごれい"
+    ],
     "answer": 0,
     "explanation": "對應原題 #138"
   },
@@ -3741,7 +3885,10 @@
     "isReview": true,
     "referenceQuestion": 135,
     "question": "おもしろい<ruby>場所<rt>ばしょ</rt></ruby>に<u>おつれ</u>しましょう。",
-    "choices": ["お連れ", "お練れ"],
+    "choices": [
+      "お連れ",
+      "お練れ"
+    ],
     "answer": 0,
     "explanation": "對應原題 #135"
   },
@@ -3755,7 +3902,10 @@
     "isReview": true,
     "referenceQuestion": 172,
     "question": "A「どんな＿＿＿ですか。」B「のどが<ruby>痛<rt>いた</rt></ruby>くてせきが<ruby>出<rt>で</rt></ruby>るんです。」",
-    "choices": ["<ruby>症状<rt>しょうじょう</rt></ruby>", "<ruby>態度<rt>たいど</rt></ruby>"],
+    "choices": [
+      "<ruby>症状<rt>しょうじょう</rt></ruby>",
+      "<ruby>態度<rt>たいど</rt></ruby>"
+    ],
     "answer": 0,
     "explanation": "對應原題 #172"
   },
@@ -3769,7 +3919,10 @@
     "isReview": true,
     "referenceQuestion": 157,
     "question": "＿＿＿ことはないんですが、<ruby>今<rt>いま</rt></ruby>、<ruby>父<rt>ちち</rt></ruby>は<ruby>入院<rt>にゅういん</rt></ruby>しているんです。",
-    "choices": ["おもな", "たいした"],
+    "choices": [
+      "おもな",
+      "たいした"
+    ],
     "answer": 1,
     "explanation": "對應原題 #157"
   },
@@ -3783,7 +3936,10 @@
     "isReview": true,
     "referenceQuestion": 176,
     "question": "<ruby>明日<rt>あした</rt></ruby><ruby>早<rt>はや</rt></ruby>いんだから、<ruby>早<rt>はや</rt></ruby>く＿＿＿。",
-    "choices": ["<ruby>寝<rt>ね</rt></ruby>ると", "<ruby>寝<rt>ね</rt></ruby>ないと"],
+    "choices": [
+      "<ruby>寝<rt>ね</rt></ruby>ると",
+      "<ruby>寝<rt>ね</rt></ruby>ないと"
+    ],
     "answer": 1,
     "explanation": "對應原題 #176"
   },
@@ -3797,7 +3953,10 @@
     "isReview": true,
     "referenceQuestion": 164,
     "question": "なんか<ruby>変<rt>へん</rt></ruby>な＿＿＿ね。<ruby>何<rt>なん</rt></ruby>だろう。",
-    "choices": ["<ruby>音<rt>おと</rt></ruby>がする", "<ruby>音<rt>おと</rt></ruby>がきく"],
+    "choices": [
+      "<ruby>音<rt>おと</rt></ruby>がする",
+      "<ruby>音<rt>おと</rt></ruby>がきく"
+    ],
     "answer": 0,
     "explanation": "對應原題 #164"
   },
@@ -3811,7 +3970,10 @@
     "isReview": true,
     "referenceQuestion": 174,
     "question": "<u>忘年会</u>で<ruby>飲<rt>の</rt></ruby>みすぎた。",
-    "choices": ["ぼうねんかい", "もうねんかい"],
+    "choices": [
+      "ぼうねんかい",
+      "もうねんかい"
+    ],
     "answer": 0,
     "explanation": "對應原題 #174"
   },
@@ -3825,7 +3987,10 @@
     "isReview": true,
     "referenceQuestion": 185,
     "question": "<u>かみさま</u>、どうかお<ruby>願<rt>ねが</rt></ruby>いします。",
-    "choices": ["上様", "神様"],
+    "choices": [
+      "上様",
+      "神様"
+    ],
     "answer": 1,
     "explanation": "對應原題 #185"
   },
@@ -3839,7 +4004,10 @@
     "isReview": true,
     "referenceQuestion": 151,
     "question": "<ruby>逃<rt>に</rt></ruby>げても<ruby>逃<rt>に</rt></ruby>げても<ruby>犬<rt>いぬ</rt></ruby>が＿＿＿<ruby>追<rt>お</rt></ruby>いかけてきて<ruby>怖<rt>こわ</rt></ruby>かった。",
-    "choices": ["しつこく", "あやしく"],
+    "choices": [
+      "しつこく",
+      "あやしく"
+    ],
     "answer": 0,
     "explanation": "對應原題 #151"
   },
@@ -3853,7 +4021,10 @@
     "isReview": true,
     "referenceQuestion": 130,
     "question": "<ruby>試験<rt>しけん</rt></ruby>まであと1<ruby>週間<rt>しゅうかん</rt></ruby>しかない。ああ。<ruby>時間<rt>じかん</rt></ruby>が＿＿＿<ruby>過<rt>す</rt></ruby>ぎていく。",
-    "choices": ["どんどん", "のろのろ"],
+    "choices": [
+      "どんどん",
+      "のろのろ"
+    ],
     "answer": 0,
     "explanation": "對應原題 #130"
   },
@@ -3867,7 +4038,10 @@
     "isReview": true,
     "referenceQuestion": 167,
     "question": "<ruby>無理<rt>むり</rt></ruby>する<ruby>休<rt>やす</rt></ruby>みをするなんて、＿＿＿。",
-    "choices": ["あなたらしくない", "あなたっぽくない"],
+    "choices": [
+      "あなたらしくない",
+      "あなたっぽくない"
+    ],
     "answer": 0,
     "explanation": "對應原題 #167"
   },
@@ -3881,7 +4055,10 @@
     "isReview": true,
     "referenceQuestion": 128,
     "question": "そのベンチは＿＿＿だから、<ruby>座<rt>すわ</rt></ruby>らないで。",
-    "choices": ["ぬりたて", "ぬりっぱなし"],
+    "choices": [
+      "ぬりたて",
+      "ぬりっぱなし"
+    ],
     "answer": 0,
     "explanation": "對應原題 #128"
   },
@@ -3895,7 +4072,10 @@
     "isReview": true,
     "referenceQuestion": 138,
     "question": "<u>教育</u>について<ruby>考<rt>かんが</rt></ruby>える。",
-    "choices": ["きょういく", "きょうよう"],
+    "choices": [
+      "きょういく",
+      "きょうよう"
+    ],
     "answer": 0,
     "explanation": "對應原題 #138"
   },
@@ -3909,7 +4089,10 @@
     "isReview": true,
     "referenceQuestion": 150,
     "question": "<u>ねんまつ</u>は<ruby>忙<rt>いそが</rt></ruby>しい。",
-    "choices": ["年末", "年未"],
+    "choices": [
+      "年末",
+      "年未"
+    ],
     "answer": 0,
     "explanation": "對應原題 #150"
   },
@@ -3923,7 +4106,10 @@
     "isReview": true,
     "referenceQuestion": 175,
     "question": "パソコンが<ruby>壊<rt>こわ</rt></ruby>れた。＿＿＿の<ruby>時間<rt>じかん</rt></ruby>もお<ruby>金<rt>かね</rt></ruby>もかからない。",
-    "choices": ["<ruby>修理<rt>しゅうり</rt></ruby>する", "<ruby>解決<rt>かいけつ</rt></ruby>する"],
+    "choices": [
+      "<ruby>修理<rt>しゅうり</rt></ruby>する",
+      "<ruby>解決<rt>かいけつ</rt></ruby>する"
+    ],
     "answer": 0,
     "explanation": "對應原題 #175"
   },
@@ -3937,7 +4123,10 @@
     "isReview": true,
     "referenceQuestion": 184,
     "question": "<ruby>結婚式<rt>けっこんしき</rt></ruby>に＿＿＿けれど、<ruby>何<rt>なに</rt></ruby>を<ruby>着<rt>き</rt></ruby>て<ruby>行<rt>い</rt></ruby>ったらよいかわからない。",
-    "choices": ["むかえられた", "まねかれた"],
+    "choices": [
+      "むかえられた",
+      "まねかれた"
+    ],
     "answer": 1,
     "explanation": "對應原題 #184"
   },
@@ -3951,7 +4140,10 @@
     "isReview": true,
     "referenceQuestion": 188,
     "question": "ひまなときは<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いたり＿＿＿。",
-    "choices": ["しています", "なっています"],
+    "choices": [
+      "しています",
+      "なっています"
+    ],
     "answer": 0,
     "explanation": "對應原題 #188"
   },
@@ -3965,7 +4157,10 @@
     "isReview": true,
     "referenceQuestion": 185,
     "question": "A「もう<ruby>会<rt>あ</rt></ruby>えないかも…。」B「え、＿＿＿<ruby>意味<rt>いみ</rt></ruby>ですか。」",
-    "choices": ["どんな", "どういう"],
+    "choices": [
+      "どんな",
+      "どういう"
+    ],
     "answer": 1,
     "explanation": "對應原題 #185"
   },
@@ -3979,7 +4174,10 @@
     "isReview": true,
     "referenceQuestion": 144,
     "question": "<u>言葉</u>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる。",
-    "choices": ["げんご", "ことば"],
+    "choices": [
+      "げんご",
+      "ことば"
+    ],
     "answer": 1,
     "explanation": "對應原題 #144"
   },
@@ -3993,7 +4191,10 @@
     "isReview": true,
     "referenceQuestion": 165,
     "question": "<u>かなしい</u><ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ。",
-    "choices": ["苦しい", "悲しい"],
+    "choices": [
+      "苦しい",
+      "悲しい"
+    ],
     "answer": 1,
     "explanation": "對應原題 #165"
   },
@@ -4007,7 +4208,10 @@
     "isReview": true,
     "referenceQuestion": 211,
     "question": "セーターを<ruby>家<rt>いえ</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>ったら、＿＿＿。",
-    "choices": ["<ruby>縮<rt>ちぢ</rt></ruby>んじゃった", "<ruby>縮<rt>ちぢ</rt></ruby>めちゃった"],
+    "choices": [
+      "<ruby>縮<rt>ちぢ</rt></ruby>んじゃった",
+      "<ruby>縮<rt>ちぢ</rt></ruby>めちゃった"
+    ],
     "answer": 0,
     "explanation": "對應原題 #211"
   },
@@ -4021,7 +4225,10 @@
     "isReview": true,
     "referenceQuestion": 190,
     "question": "<ruby>田中<rt>たなか</rt></ruby>さんは、だまっている<ruby>人<rt>ひと</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うような<ruby>人<rt>ひと</rt></ruby>ではない。＿＿＿。",
-    "choices": ["さわがしい", "ずうずうしい"],
+    "choices": [
+      "さわがしい",
+      "ずうずうしい"
+    ],
     "answer": 1,
     "explanation": "對應原題 #190"
   },
@@ -4035,8 +4242,1286 @@
     "isReview": true,
     "referenceQuestion": 197,
     "question": "<ruby>先生<rt>せんせい</rt></ruby>に、<ruby>毎日<rt>まいにち</rt></ruby>30<ruby>分<rt>ぷん</rt></ruby>は＿＿＿と<ruby>言<rt>い</rt></ruby>われています。",
-    "choices": ["<ruby>勉強<rt>べんきょう</rt></ruby>するよう", "<ruby>勉強<rt>べんきょう</rt></ruby>しろ"],
+    "choices": [
+      "<ruby>勉強<rt>べんきょう</rt></ruby>するよう",
+      "<ruby>勉強<rt>べんきょう</rt></ruby>しろ"
+    ],
     "answer": 1,
     "explanation": "對應原題 #197"
+  },
+  {
+    "id": "n3-完勝-q251",
+    "week": 3,
+    "day": 1,
+    "number": 251,
+    "page": 147,
+    "type": "もじ",
+    "question": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>はあの<u>交差点</u>にあります。",
+    "choices": [
+      "こさてん",
+      "こうさてん",
+      "こしゃてん",
+      "こうしゃてん"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：地鐵的入口在那個十字路口。\n\n**漢字整理**\n- 交 コウ：<ruby>交番<rt>こうばん</rt></ruby>（派出所）・<ruby>交通<rt>こうつう</rt></ruby>・<ruby>交差点<rt>こうさてん</rt></ruby>（十字路口）\n- 差 サ：<ruby>時差<rt>じさ</rt></ruby>ぼけ・時差\n- 点 テン：交差点・<ruby>点数<rt>てんすう</rt></ruby>（分數）"
+  },
+  {
+    "id": "n3-完勝-q252",
+    "week": 3,
+    "day": 1,
+    "number": 252,
+    "page": 147,
+    "type": "ごい",
+    "question": "<ruby>若<rt>わか</rt></ruby>いときは、いくらお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでも＿＿＿だったが、<ruby>最近<rt>さいきん</rt></ruby>はすぐに<ruby>酔<rt>よ</rt></ruby>ってしまう。",
+    "choices": [
+      "<ruby>平気<rt>へいき</rt></ruby>",
+      "<ruby>健康<rt>けんこう</rt></ruby>",
+      "まじめ",
+      "<ruby>無事<rt>ぶじ</rt></ruby>"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：年輕時不管喝多少酒都很沒事，但最近很快就醉了。\n\n- **<ruby>平気<rt>へいき</rt></ruby>な**（へいきな）不要緊的、冷靜的\n- **<ruby>健康<rt>けんこう</rt></ruby>な**（けんこうな）健康的\n- **まじめな** 認真的、嚴肅的\n- **<ruby>無事<rt>ぶじ</rt></ruby>な**（ぶじな）平安的、安全的"
+  },
+  {
+    "id": "n3-完勝-q253",
+    "week": 3,
+    "day": 1,
+    "number": 253,
+    "page": 147,
+    "type": "ぶんぽう",
+    "question": "<ruby>病気<rt>びょうき</rt></ruby>に＿＿＿<ruby>健康<rt>けんこう</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>さを<ruby>知<rt>し</rt></ruby>りました。",
+    "choices": [
+      "なってからでないと",
+      "ならないことには",
+      "なってはじめて",
+      "なってからでは"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：生病後才第一次了解健康的重要性。\n\n**V1 てはじめて V2**（= V1 する<ruby>後<rt>あと</rt></ruby>、V2 ない）〜後、才知（才感到）〜\n\n- ◆<ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってはじめて、<ruby>年寄<rt>としよ</rt></ruby>りの<ruby>気持<rt>きも</rt></ruby>ちがわかった。 上了年紀後才知道年長者的心情。\n- ◆<ruby>水道<rt>すいどう</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってはじめて<ruby>便利<rt>べんり</rt></ruby>さを<ruby>知<rt>し</rt></ruby>った。 自來水停了才知道使用方便。"
+  },
+  {
+    "id": "n3-完勝-q254",
+    "week": 3,
+    "day": 1,
+    "number": 254,
+    "page": 149,
+    "type": "もじ",
+    "question": "ご<ruby>不在<rt>ふざい</rt></ruby>でしたので、<ruby>資料<rt>しりょう</rt></ruby>は<ruby>中村<rt>なかむら</rt></ruby><ruby>様<rt>さま</rt></ruby>に<u>おあずけ</u>しました。",
+    "choices": [
+      "お届け",
+      "お頂け",
+      "お授け",
+      "お預け"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：因您不在，所以將資料先寄放在中村樣那兒。\n\n**漢字整理**\n- 在 ザイ：<ruby>在学<rt>ざいがく</rt></ruby>する（在學）・<ruby>滞在<rt>たいざい</rt></ruby>する（停留）・<ruby>不在<rt>ふざい</rt></ruby>\n- 資 シ：<ruby>資料<rt>しりょう</rt></ruby>・<ruby>資源<rt>しげん</rt></ruby>\n- 預 ヨ：<ruby>預金<rt>よきん</rt></ruby>（存款）／あず(-かる/-ける)：<ruby>預<rt>あず</rt></ruby>ける（寄放、託付）"
+  },
+  {
+    "id": "n3-完勝-q255",
+    "week": 3,
+    "day": 1,
+    "number": 255,
+    "page": 149,
+    "type": "ごい",
+    "question": "A「<ruby>奥<rt>おく</rt></ruby>さん、<ruby>女優<rt>じょゆう</rt></ruby>さんみたいにきれいですね。」B「いやあ、＿＿＿です。<ruby>妻<rt>つま</rt></ruby>ももう<ruby>年<rt>とし</rt></ruby>ですよ。」",
+    "choices": [
+      "しょうがない",
+      "おかげさま",
+      "とんでもない",
+      "もうしわけない"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：A「您太太像女演員一樣漂亮呢。」B「沒這回事，我太太也已上年紀了。」\n\n- **とんでもない** 沒道理的、沒這回事\n- **しょうがない** 沒辦法、無可奈何\n- **おかげさまで** 託您的福\n  - A「お<ruby>元気<rt>げんき</rt></ruby>そうですね」B「おかげさまで」"
+  },
+  {
+    "id": "n3-完勝-q256",
+    "week": 3,
+    "day": 1,
+    "number": 256,
+    "page": 149,
+    "type": "ぶんぽう",
+    "question": "もっとうまく<ruby>英語<rt>えいご</rt></ruby>が＿＿＿なあ。",
+    "choices": [
+      "<ruby>話<rt>はな</rt></ruby>せない",
+      "<ruby>話<rt>はな</rt></ruby>そうか",
+      "<ruby>話<rt>はな</rt></ruby>せたら",
+      "<ruby>話<rt>はな</rt></ruby>しても"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：要是英文能說得更好就好了。\n\n**〜たら（いいのに）なあ／〜ば（いいのに）なあ／〜といい（のに）なあ** 要是〜就好了　＊用於表達願望\n\n- ◆<ruby>明日<rt>あした</rt></ruby>、<ruby>晴<rt>は</rt></ruby>れたらいいなあ。 明天能放晴就好了。\n- ◆もう<ruby>少<rt>すこ</rt></ruby>し<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いといいのになあ。 要是個子能再高一點就好了。"
+  },
+  {
+    "id": "n3-完勝-q257",
+    "week": 3,
+    "day": 1,
+    "number": 257,
+    "page": 151,
+    "type": "もじ",
+    "question": "<u>申込書</u>は<ruby>例<rt>れい</rt></ruby>を<ruby>参考<rt>さんこう</rt></ruby>に<ruby>記入<rt>きにゅう</rt></ruby>してください。",
+    "choices": [
+      "しんこくしょ",
+      "しんせいしょ",
+      "もしこみしょ",
+      "もうしこみしょ"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：申請書請參考範例填寫。\n\n**漢字整理**\n- 込 こ(-む/-める)：込む（擁擠）・<ruby>申<rt>もう</rt></ruby>し込む（申請）・込める（添加）\n- 例 レイ：<ruby>例<rt>れい</rt></ruby>（範例）・たとえば（例如）\n- 記 キ：<ruby>記事<rt>きじ</rt></ruby>（報導）・<ruby>日記<rt>にっき</rt></ruby>・<ruby>記号<rt>きごう</rt></ruby>・<ruby>記入<rt>きにゅう</rt></ruby>する（填入）・<ruby>暗記<rt>あんき</rt></ruby>する（背誦）"
+  },
+  {
+    "id": "n3-完勝-q258",
+    "week": 3,
+    "day": 1,
+    "number": 258,
+    "page": 151,
+    "type": "ごい",
+    "question": "<ruby>明日<rt>あした</rt></ruby>からしばらく<ruby>留守<rt>るす</rt></ruby>にします。<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>来<rt>き</rt></ruby>たら＿＿＿おいてください。",
+    "choices": [
+      "<ruby>受<rt>う</rt></ruby>け<ruby>持<rt>も</rt></ruby>って",
+      "<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>って",
+      "<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れて",
+      "<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>けて"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：明天起會不在家。包裹來的話請先簽收。\n\n- **<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>る**（うけとる）接收、領取\n- **<ruby>受<rt>う</rt></ruby>け<ruby>持<rt>も</rt></ruby>つ**（うけもつ）擔任、負責\n- **<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れる**（うけいれる）接受、採納\n- **<ruby>受<rt>う</rt></ruby>け<ruby>付<rt>つ</rt></ruby>ける**（うけつける）受理、辦理"
+  },
+  {
+    "id": "n3-完勝-q259",
+    "week": 3,
+    "day": 1,
+    "number": 259,
+    "page": 151,
+    "type": "ぶんぽう",
+    "question": "A「それ、<ruby>高<rt>たか</rt></ruby>かったでしょう。」B「＿＿＿でもありません。」",
+    "choices": [
+      "それ",
+      "それほど",
+      "それより",
+      "それくらい"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：A「那個很貴吧。」B「沒那麼貴。」\n\n**〜ほど** 〜程度\n- ◆<ruby>今日<rt>きょう</rt></ruby>は<ruby>昨日<rt>きのう</rt></ruby>ほど<ruby>寒<rt>さむ</rt></ruby>くない。 今天不像昨天那麼冷。\n- ◆昨日は<ruby>足<rt>あし</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなるほど<ruby>歩<rt>ある</rt></ruby>いた。 昨天走到腳痠。\n\n**N ほど〜はない** 沒有比 N 更〜的\n- ◆<ruby>田中<rt>たなか</rt></ruby>さんほど<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>はいない。 沒有比田中先生更親切的人了。"
+  },
+  {
+    "id": "n3-完勝-q260",
+    "week": 3,
+    "day": 1,
+    "number": 260,
+    "page": 153,
+    "type": "もじ",
+    "question": "あの<ruby>団体<rt>だんたい</rt></ruby>は<ruby>国際<rt>こくさい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<u>かつどう</u>をしている。",
+    "choices": [
+      "運動",
+      "行動",
+      "活動",
+      "自動"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：那個團體在做國際性的活動。\n\n**漢字整理**\n- 団 ダン：<ruby>団地<rt>だんち</rt></ruby>（住宅區）・<ruby>団体<rt>だんたい</rt></ruby>・<ruby>集団<rt>しゅうだん</rt></ruby>\n- 的 テキ：<ruby>国際<rt>こくさい</rt></ruby>的な・<ruby>目的<rt>もくてき</rt></ruby>\n- 活 カツ：<ruby>活動<rt>かつどう</rt></ruby>・<ruby>活躍<rt>かつやく</rt></ruby>・<ruby>生活<rt>せいかつ</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q261",
+    "week": 3,
+    "day": 1,
+    "number": 261,
+    "page": 153,
+    "type": "ごい",
+    "question": "<ruby>私<rt>わたし</rt></ruby>は、<ruby>殺人犯<rt>さつじんはん</rt></ruby>がまだこの<ruby>近<rt>ちか</rt></ruby>くにいるような＿＿＿。",
+    "choices": [
+      "<ruby>気<rt>き</rt></ruby>がする",
+      "<ruby>考<rt>かんが</rt></ruby>えがある",
+      "<ruby>感<rt>かん</rt></ruby>じになる",
+      "<ruby>心<rt>こころ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：我覺得殺人犯還在這附近。\n\n**OK**：感じがする\n\n- **<ruby>気<rt>き</rt></ruby>がする**（きがする）覺得\n- **<ruby>考<rt>かんが</rt></ruby>え**（かんがえ）想法\n- **<ruby>感<rt>かん</rt></ruby>じ**（かんじ）感覺\n- **<ruby>心<rt>こころ</rt></ruby>**（こころ）心"
+  },
+  {
+    "id": "n3-完勝-q262",
+    "week": 3,
+    "day": 1,
+    "number": 262,
+    "page": 153,
+    "type": "ぶんぽう",
+    "question": "<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わっても、なかなか＿＿＿。",
+    "choices": [
+      "<ruby>帰<rt>かえ</rt></ruby>るようにしている",
+      "<ruby>帰<rt>かえ</rt></ruby>れないつもりだ",
+      "<ruby>帰<rt>かえ</rt></ruby>ってられない",
+      "<ruby>帰<rt>かえ</rt></ruby>ろうとしない"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：田中先生即使工作結束了，也遲遲不打算回家。\n\n**V ようとする** 打算〜、想要〜\n- ◆<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>留学<rt>りゅうがく</rt></ruby>をしようとしている。 田中先生在打算留學。\n\n**V ようとしない** 不願〜、不想〜\n- ◆<ruby>猫<rt>ねこ</rt></ruby>がえさを<ruby>食<rt>た</rt></ruby>べようとしないので、<ruby>心配<rt>しんぱい</rt></ruby>だ。 因為貓不願吃飼料，我擔心。"
+  },
+  {
+    "id": "n3-完勝-q263",
+    "week": 3,
+    "day": 1,
+    "number": 263,
+    "page": 155,
+    "type": "もじ",
+    "question": "<u>観光</u>で<ruby>海外<rt>かいがい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くので、<ruby>準備<rt>じゅんび</rt></ruby>をしているところです。",
+    "choices": [
+      "けんこう",
+      "けんこん",
+      "かんこう",
+      "かんこん"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：因為要去海外觀光，正在做準備。\n\n**漢字整理**\n- 観 カン：<ruby>観光<rt>かんこう</rt></ruby>・<ruby>観察<rt>かんさつ</rt></ruby>する・<ruby>観測<rt>かんそく</rt></ruby>する\n- 準 ジュン：<ruby>水準<rt>すいじゅん</rt></ruby>・<ruby>標準<rt>ひょうじゅん</rt></ruby>\n- 備 ビ：<ruby>準備<rt>じゅんび</rt></ruby>する・<ruby>設備<rt>せつび</rt></ruby>／そな(-える)：<ruby>備<rt>そな</rt></ruby>える（準備、設置）"
+  },
+  {
+    "id": "n3-完勝-q264",
+    "week": 3,
+    "day": 1,
+    "number": 264,
+    "page": 155,
+    "type": "ごい",
+    "question": "その<ruby>俳優<rt>はいゆう</rt></ruby>は<ruby>雑誌<rt>ざっし</rt></ruby>の＿＿＿に<ruby>応<rt>おう</rt></ruby>じた<ruby>後<rt>あと</rt></ruby>、テレビ<ruby>局<rt>きょく</rt></ruby>に<ruby>向<rt>む</rt></ruby>かった。",
+    "choices": [
+      "レポート",
+      "インタビュー",
+      "スピーチ",
+      "アナウンス"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：那位演員接受雜誌的訪問後前往電視台。\n\n- **インタビュー** 訪問\n- **レポート** 報告、報導記載　＊也可用「リポート」\n- **スピーチ** 演講\n- **アナウンス** 通知、宣告"
+  },
+  {
+    "id": "n3-完勝-q265",
+    "week": 3,
+    "day": 1,
+    "number": 265,
+    "page": 155,
+    "type": "ぶんぽう",
+    "question": "<ruby>病気<rt>びょうき</rt></ruby>に＿＿＿、<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけましょう。",
+    "choices": [
+      "ならないように",
+      "なることがなくて",
+      "ならないみたいに",
+      "なってはいけなくて"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：為了不生病，注意飲食吧！\n\n**V る／V ないように** 為了〜／為了不〜　＊表達目的、建議、希望\n\n- ◆<ruby>母<rt>はは</rt></ruby>の<ruby>病気<rt>びょうき</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>治<rt>なお</rt></ruby>るように<ruby>祈<rt>いの</rt></ruby>っています。 希望母親的病能早日恢復。\n- ◆<ruby>聞<rt>き</rt></ruby>いたことを<ruby>忘<rt>わす</rt></ruby>れないようにメモをしましょう。 把所聽事情，做下筆記吧！"
+  },
+  {
+    "id": "n3-完勝-q266",
+    "week": 3,
+    "day": 2,
+    "number": 266,
+    "page": 157,
+    "type": "もじ",
+    "question": "この<u>求人広告</u>は<ruby>仕事<rt>しごと</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>がよくわからない。",
+    "choices": [
+      "きゅうじんこうこく",
+      "きゅうにんこうこく",
+      "きゅうじんこうかく",
+      "きゅうにんこうかく"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：這份徵人廣告的工作內容看不太明白。\n\n**漢字整理**\n- 求 キュウ：<ruby>要求<rt>ようきゅう</rt></ruby>する・<ruby>請求<rt>せいきゅう</rt></ruby>する／もと(-める)：求める（需求、追求）\n- 告 コク：<ruby>報告<rt>ほうこく</rt></ruby>する・<ruby>広告<rt>こうこく</rt></ruby>\n- 容 ヨウ：<ruby>内容<rt>ないよう</rt></ruby>・<ruby>容器<rt>ようき</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q267",
+    "week": 3,
+    "day": 2,
+    "number": 267,
+    "page": 157,
+    "type": "ごい",
+    "question": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>で<ruby>習<rt>なら</rt></ruby>ったことをノートに＿＿＿みた。",
+    "choices": [
+      "あつめて",
+      "うめて",
+      "まとめて",
+      "ふくめて"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：試著把今天課堂上學的東西整理在筆記本中。\n\n- **まとめる** 整理、總結\n- **<ruby>集<rt>あつ</rt></ruby>める**（あつめる）集合、收集\n- **<ruby>埋<rt>う</rt></ruby>める**（うめる）埋、填\n- **<ruby>含<rt>ふく</rt></ruby>める**（ふくめる）包含、包括　＊含む 帶有、包含"
+  },
+  {
+    "id": "n3-完勝-q268",
+    "week": 3,
+    "day": 2,
+    "number": 268,
+    "page": 157,
+    "type": "ぶんぽう",
+    "question": "<ruby>危<rt>あぶ</rt></ruby>なかった。もう<ruby>少<rt>すこ</rt></ruby>しで<ruby>事故<rt>じこ</rt></ruby>になる＿＿＿。",
+    "choices": [
+      "らしかった",
+      "そうだった",
+      "ところだった",
+      "<ruby>途中<rt>とちゅう</rt></ruby>だった"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：太危險了，差點就出意外。\n\n**もう少しで V るところだった** 差一點就〜\n\n- ◆もう少しで<ruby>飛行機<rt>ひこうき</rt></ruby>に<ruby>乗<rt>の</rt></ruby>り<ruby>遅<rt>おく</rt></ruby>れるところだった。 差點就趕不上飛機。\n- ◆もう少しで<ruby>川<rt>かわ</rt></ruby>があふれるところだった。 差點河水溢出來。\n\n**言わない！**：<s>少しで〜ところだった</s>（須加上「もう」）"
+  },
+  {
+    "id": "n3-完勝-q269",
+    "week": 3,
+    "day": 2,
+    "number": 269,
+    "page": 159,
+    "type": "もじ",
+    "question": "<ruby>虫歯<rt>むしば</rt></ruby>を<u>なおす</u><ruby>方法<rt>ほうほう</rt></ruby>について<ruby>医師<rt>いし</rt></ruby>から<ruby>説明<rt>せつめい</rt></ruby>してもらった。",
+    "choices": [
+      "消す",
+      "移す",
+      "正す",
+      "治す"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：醫生為我說明治療蛀牙的方法。\n\n**漢字整理**\n- 虫 むし：<ruby>虫歯<rt>むしば</rt></ruby>（蛀牙）\n- 歯 シ：<ruby>政治<rt>せいじ</rt></ruby>・<ruby>自治<rt>じち</rt></ruby>\n- 治 なお(-る/-す)：<ruby>治<rt>なお</rt></ruby>る・治す（醫治）\n- 法 ホウ：<ruby>方法<rt>ほうほう</rt></ruby>・<ruby>文法<rt>ぶんぽう</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q270",
+    "week": 3,
+    "day": 2,
+    "number": 270,
+    "page": 159,
+    "type": "ごい",
+    "question": "A「<ruby>電車<rt>でんしゃ</rt></ruby>、<ruby>混<rt>こ</rt></ruby>んでいた？」B「ううん、＿＿＿だったよ。」",
+    "choices": [
+      "のろのろ",
+      "うろうろ",
+      "そろそろ",
+      "がらがら"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：A「電車擠嗎？」B「不，空蕩蕩的。」\n\n- **がらがら** 空蕩蕩\n- **のろのろ** 緩慢\n  - ◆のろのろの電車 緩慢的電車\n- **うろうろ** 徘徊、打轉\n  - ◆<ruby>変<rt>へん</rt></ruby>な<ruby>男<rt>おとこ</rt></ruby>がうろうろしている。 怪異男子在徘徊。\n- **そろそろ** 就要、馬上\n  - ◆そろそろ<ruby>父<rt>ちち</rt></ruby>が<ruby>帰<rt>かえ</rt></ruby>ってくる。 爸爸快要回來了。"
+  },
+  {
+    "id": "n3-完勝-q271",
+    "week": 3,
+    "day": 2,
+    "number": 271,
+    "page": 159,
+    "type": "ぶんぽう",
+    "question": "A「<ruby>映画<rt>えいが</rt></ruby>、おもしろかったよ。」B「へえ。<ruby>私<rt>わたし</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に＿＿＿。」",
+    "choices": [
+      "<ruby>行<rt>い</rt></ruby>きたがっていた",
+      "<ruby>行<rt>い</rt></ruby>けなくてよかった",
+      "<ruby>行<rt>い</rt></ruby>こうとしたかった",
+      "<ruby>行<rt>い</rt></ruby>けばよかった"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：A「電影很有趣喔。」B「真的喔。如果我也一起去就好了。」\n\n**V ばよかった** 如果〜就好了　＊表示懊悔\n\n- ◆<ruby>田中<rt>たなか</rt></ruby>さんにあんなこと<ruby>言<rt>い</rt></ruby>わなければよかった。 如果沒對田中先生說那種話就好了。\n- ◆テスト、<ruby>全然<rt>ぜんぜん</rt></ruby>できなかった。もっと<ruby>勉強<rt>べんきょう</rt></ruby>すればよかった。 考試完全不會，再用功一點就好了。"
+  },
+  {
+    "id": "n3-完勝-q272",
+    "week": 3,
+    "day": 2,
+    "number": 272,
+    "page": 161,
+    "type": "もじ",
+    "question": "<ruby>二十歳<rt>はたち</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>への<ruby>販売<rt>はんばい</rt></ruby>を<u>おことわり</u>しております。",
+    "choices": [
+      "おどこわり",
+      "おことわり",
+      "おこだわり",
+      "おだこわり"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：拒絕販賣給未滿二十歲的客人。\n\n**漢字整理**\n- 未 ミ：<ruby>未満<rt>みまん</rt></ruby>・<ruby>未来<rt>みらい</rt></ruby>\n- 満 マン：<ruby>満員<rt>まんいん</rt></ruby>（客滿）・<ruby>満足<rt>まんぞく</rt></ruby>する／み(-ちる)：満ちる（充滿）\n- 断 ダン：<ruby>判断<rt>はんだん</rt></ruby>する（判斷）・<ruby>断水<rt>だんすい</rt></ruby>（停水）／ことわ(-る)：断る（拒絕）"
+  },
+  {
+    "id": "n3-完勝-q273",
+    "week": 3,
+    "day": 2,
+    "number": 273,
+    "page": 161,
+    "type": "ごい",
+    "question": "<ruby>映画<rt>えいが</rt></ruby>は、＿＿＿<ruby>映画館<rt>えいがかん</rt></ruby>で<ruby>見<rt>み</rt></ruby>ることもありますが、たいていはDVDを<ruby>借<rt>か</rt></ruby>りて<ruby>家<rt>いえ</rt></ruby>で<ruby>見<rt>み</rt></ruby>ます。",
+    "choices": [
+      "たまに",
+      "ついに",
+      "わりに",
+      "ます"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：電影偶爾在電影院看，但通常都租 DVD 在家裡看。\n\n- **たまに** 偶爾\n- **<ruby>割<rt>わり</rt></ruby>に**（わりに）比較地、相對地　＊也可用「わりと」\n- **ついに** 終於\n  - ◆<ruby>絵<rt>え</rt></ruby>がついに<ruby>完成<rt>かんせい</rt></ruby>しました。 終於完成畫了。\n- **まず**（= <ruby>最初<rt>さいしょ</rt></ruby>）首先"
+  },
+  {
+    "id": "n3-完勝-q274",
+    "week": 3,
+    "day": 2,
+    "number": 274,
+    "page": 161,
+    "type": "ぶんぽう",
+    "question": "<ruby>電話<rt>でんわ</rt></ruby>くれたらすぐ<ruby>手伝<rt>てつだ</rt></ruby>いに＿＿＿、どうして<ruby>言<rt>い</rt></ruby>わなかったの？",
+    "choices": [
+      "<ruby>行<rt>い</rt></ruby>ったのに",
+      "<ruby>行<rt>い</rt></ruby>くつもりなので",
+      "<ruby>行<rt>い</rt></ruby>きたかっただけれど",
+      "<ruby>行<rt>い</rt></ruby>けないだろうが"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：要是打電話給我我就會去幫忙，為什麼不告訴我？\n\n**〜ば／〜たら〜のに**\n- ◆<ruby>安<rt>やす</rt></ruby>かったら<ruby>買<rt>か</rt></ruby>うのに。 要是便宜的話我就買。\n\n**V ばよかったのに**\n- ◆<ruby>映画<rt>えいが</rt></ruby>、おもしろかったよ。<ruby>君<rt>きみ</rt></ruby>も<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>ればよかったのに。 電影很有趣！你也一起來就好了。"
+  },
+  {
+    "id": "n3-完勝-q275",
+    "week": 3,
+    "day": 2,
+    "number": 275,
+    "page": 163,
+    "type": "もじ",
+    "question": "<ruby>体重<rt>たいじゅう</rt></ruby>が<u>ふえた</u>ので、<ruby>食<rt>た</rt></ruby>べる<ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らしています。",
+    "choices": [
+      "太えた",
+      "多えた",
+      "過えた",
+      "増えた"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：因為體重增加了，所以正在減少飲食量。\n\n**漢字整理**\n- 増 ゾウ：<ruby>増加<rt>ぞうか</rt></ruby>する／ま(-す)：<ruby>増<rt>ま</rt></ruby>す（增加）／ふ(-える/-やす)：<ruby>増<rt>ふ</rt></ruby>える・増やす（使增加）\n- 量 リョウ：<ruby>分量<rt>ぶんりょう</rt></ruby>・<ruby>重量<rt>じゅうりょう</rt></ruby>／はか(-る)：<ruby>量<rt>はか</rt></ruby>る（測量）\n- 減 ゲン：<ruby>増減<rt>ぞうげん</rt></ruby>する／へ(-る/-らす)：<ruby>減<rt>へ</rt></ruby>る・減らす（減少）"
+  },
+  {
+    "id": "n3-完勝-q276",
+    "week": 3,
+    "day": 2,
+    "number": 276,
+    "page": 163,
+    "type": "ごい",
+    "question": "<ruby>急<rt>きゅう</rt></ruby>に＿＿＿と<ruby>車<rt>くるま</rt></ruby>にひかれるから、<ruby>気<rt>き</rt></ruby>をつけて。",
+    "choices": [
+      "<ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>む",
+      "<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎる",
+      "<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>す",
+      "<ruby>通<rt>とお</rt></ruby>りかかる"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：突然衝出去會被車撞，要小心點。\n\n- **<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>す**（とびだす）衝出、突然出現\n- **<ruby>飛<rt>と</rt></ruby>び<ruby>込<rt>こ</rt></ruby>む**（とびこむ）跳入、飛入\n- **<ruby>通<rt>とお</rt></ruby>り<ruby>過<rt>す</rt></ruby>ぎる**（とおりすぎる）走過、越過\n- **<ruby>通<rt>とお</rt></ruby>りかかる**（とおりかかる）通過、路過"
+  },
+  {
+    "id": "n3-完勝-q277",
+    "week": 3,
+    "day": 2,
+    "number": 277,
+    "page": 163,
+    "type": "ぶんぽう",
+    "question": "<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>妹<rt>いもうと</rt></ruby>さんは、<ruby>美人<rt>びじん</rt></ruby>＿＿＿、かわいい<ruby>女性<rt>じょせい</rt></ruby>です。",
+    "choices": [
+      "というけれど",
+      "といっても",
+      "というより",
+      "といったら"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：田中先生的妹妹說是美女，不如說是位可愛的女性。\n\n**a というより b** 與其說是 a 不如說是 b\n- ◆あの<ruby>人<rt>ひと</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いというより、ごみ<ruby>箱<rt>ばこ</rt></ruby>のようです。 與其說髒，不如說像垃圾箱一樣。\n\n**〜といっても〜**\n- ◆12<ruby>月<rt>がつ</rt></ruby>といってもあんまり<ruby>寒<rt>さむ</rt></ruby>くありませんね。 雖說是 12 月，但是不太冷。"
+  },
+  {
+    "id": "n3-完勝-q278",
+    "week": 3,
+    "day": 2,
+    "number": 278,
+    "page": 165,
+    "type": "もじ",
+    "question": "<ruby>何<rt>なに</rt></ruby>か<ruby>問題<rt>もんだい</rt></ruby>が<ruby>起<rt>お</rt></ruby>こったら、<u>必ず</u><ruby>連絡<rt>れんらく</rt></ruby>して<ruby>相談<rt>そうだん</rt></ruby>してください。",
+    "choices": [
+      "かならず",
+      "からなず",
+      "とれあいず",
+      "とりあえず"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：有什麼問題發生的話，請務必聯絡商量。\n\n**漢字整理**\n- 必 ヒツ：<ruby>必要<rt>ひつよう</rt></ruby>な・<ruby>必死<rt>ひっし</rt></ruby>（拼命）／かなら(-ず)：必ず（一定、必定）\n- 絡 ラク：<ruby>連絡<rt>れんらく</rt></ruby>する\n- 談 ダン：<ruby>相談<rt>そうだん</rt></ruby>する・<ruby>冗談<rt>じょうだん</rt></ruby>（玩笑）"
+  },
+  {
+    "id": "n3-完勝-q279",
+    "week": 3,
+    "day": 2,
+    "number": 279,
+    "page": 165,
+    "type": "ごい",
+    "question": "<ruby>桜<rt>さくら</rt></ruby>の<ruby>花<rt>はな</rt></ruby>が＿＿＿<ruby>後<rt>あと</rt></ruby>の<ruby>道<rt>みち</rt></ruby>は、まるでピンクのじゅうたんみたいだ。",
+    "choices": [
+      "<ruby>散<rt>ち</rt></ruby>った",
+      "<ruby>枯<rt>か</rt></ruby>れた",
+      "さいた",
+      "ひらいた"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：櫻花散落後的街道就像粉紅色的地毯。\n\n- **<ruby>散<rt>ち</rt></ruby>る**（ちる）散落、凋零　◆<ruby>花<rt>はな</rt></ruby>が散る 花謝\n- **<ruby>枯<rt>か</rt></ruby>れる**（かれる）枯萎、凋零　◆<ruby>木<rt>き</rt></ruby>が枯れる 樹木枯萎"
+  },
+  {
+    "id": "n3-完勝-q280",
+    "week": 3,
+    "day": 2,
+    "number": 280,
+    "page": 165,
+    "type": "ぶんぽう",
+    "question": "<ruby>私<rt>わたし</rt></ruby>は<ruby>留学生<rt>りゅうがくせい</rt></ruby>＿＿＿<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ましたが、日本で<ruby>就職<rt>しゅうしょく</rt></ruby>をして、<ruby>結婚<rt>けっこん</rt></ruby>もしました。",
+    "choices": [
+      "として",
+      "としたら",
+      "としては",
+      "としても"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：我以留學生的身分到日本，然而在日本工作、也結了婚。\n\n- **N として** 當作 N、身為 N\n- **N としては** 就 N 而言\n  - ◆<ruby>田中<rt>たなか</rt></ruby>さんはバスケットボールの<ruby>選手<rt>せんしゅ</rt></ruby>としては<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いほうです。 就籃球選手而言，田中先生算個子矮的。\n- **N としても** 作為 N 也\n  - ◆田中さんは<ruby>夫<rt>おっと</rt></ruby>としても<ruby>親<rt>おや</rt></ruby>としても<ruby>最高<rt>さいこう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>です。 田中先生不論作為丈夫或父親都是最棒的人。"
+  },
+  {
+    "id": "n3-完勝-q281",
+    "week": 3,
+    "day": 3,
+    "number": 281,
+    "page": 167,
+    "type": "もじ",
+    "question": "<u>地震</u><ruby>情報<rt>じょうほう</rt></ruby>です。<ruby>今日<rt>きょう</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>7<ruby>時<rt>じ</rt></ruby>13<ruby>分<rt>ぷん</rt></ruby>に<ruby>地震<rt>じしん</rt></ruby>がありました。",
+    "choices": [
+      "じんしん",
+      "じしん",
+      "じっしん",
+      "ちしん"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：地震快報，今天上午 7 點 13 分發生了地震。\n\n**漢字整理**\n- 震 シン：<ruby>地震<rt>じしん</rt></ruby>／ふる(-える)：<ruby>震<rt>ふる</rt></ruby>える（震動、發抖）\n- 情 ジョウ：<ruby>感情<rt>かんじょう</rt></ruby>・<ruby>友情<rt>ゆうじょう</rt></ruby>・<ruby>事情<rt>じじょう</rt></ruby>\n- 報 ホウ：<ruby>予報<rt>よほう</rt></ruby>・<ruby>情報<rt>じょうほう</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q282",
+    "week": 3,
+    "day": 3,
+    "number": 282,
+    "page": 167,
+    "type": "ごい",
+    "question": "<ruby>洗濯物<rt>せんたくもの</rt></ruby>は、<ruby>乾<rt>かわ</rt></ruby>いたら＿＿＿たたんで、しまいましょう。",
+    "choices": [
+      "しいんと",
+      "わざと",
+      "きちんと",
+      "そっと"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：洗好的衣物乾了，整齊地折好放好吧。\n\n- **きちんと** 正當地、端正地　◆きちんと<ruby>座<rt>すわ</rt></ruby>る 端正坐\n- **しいんと** 安靜　◆しいんとした<ruby>部屋<rt>へや</rt></ruby> 非常安靜的房間\n- **わざと** 故意、特意　◆わざと<ruby>間違<rt>まちが</rt></ruby>える 故意弄錯"
+  },
+  {
+    "id": "n3-完勝-q283",
+    "week": 3,
+    "day": 3,
+    "number": 283,
+    "page": 167,
+    "type": "ぶんぽう",
+    "question": "もし<ruby>休<rt>やす</rt></ruby>みが＿＿＿、<ruby>旅行<rt>りょこう</rt></ruby>には<ruby>行<rt>い</rt></ruby>かずに<ruby>家<rt>いえ</rt></ruby>でのんびりしたいです。",
+    "choices": [
+      "<ruby>取<rt>と</rt></ruby>れたにしたら",
+      "<ruby>取<rt>と</rt></ruby>れたとしても",
+      "<ruby>取<rt>と</rt></ruby>れたにすれば",
+      "<ruby>取<rt>と</rt></ruby>れたとしては"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：即使請了休假，也不打算去旅行，而是想悠閒在家。\n\n**もし〜としても**（= もし〜でも）即使〜也\n- ◆お<ruby>金<rt>かね</rt></ruby>がたくさんあったとしても<ruby>幸<rt>しあわ</rt></ruby>せとは<ruby>限<rt>かぎ</rt></ruby>らない。 即使有很多錢也未必幸福。\n\n**もし〜としたら／〜とすれば**（= もし〜なら）要是〜的話\n- ◆<ruby>自転車<rt>じてんしゃ</rt></ruby>がないとしたら、もう<ruby>彼<rt>かれ</rt></ruby>は<ruby>帰<rt>かえ</rt></ruby>ったんだろう。 要是腳踏車不在的話，他應該已經回去了吧。"
+  },
+  {
+    "id": "n3-完勝-q284",
+    "week": 3,
+    "day": 3,
+    "number": 284,
+    "page": 169,
+    "type": "もじ",
+    "question": "この<ruby>植物<rt>しょくぶつ</rt></ruby>は<ruby>葉<rt>は</rt></ruby>の<u>かたち</u>がかわいいので、インテリアとして<ruby>人気<rt>にんき</rt></ruby>がある。",
+    "choices": [
+      "形",
+      "型",
+      "刑",
+      "列"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：這個植物葉子的形狀很可愛，當作擺飾相當受歡迎。\n\n**漢字整理**\n- 植 ショク：<ruby>植物<rt>しょくぶつ</rt></ruby>・<ruby>植木<rt>うえき</rt></ruby>（盆栽）／う(-える)：植える（種植）\n- 形 ケイ：<ruby>形容詞<rt>けいようし</rt></ruby>／かたち：<ruby>形<rt>かたち</rt></ruby>（形狀）\n- 型 ケイ：<ruby>典型的<rt>てんけいてき</rt></ruby>な・<ruby>類型<rt>るいけい</rt></ruby>／かた：型（模型、型號）"
+  },
+  {
+    "id": "n3-完勝-q285",
+    "week": 3,
+    "day": 3,
+    "number": 285,
+    "page": 169,
+    "type": "ごい",
+    "question": "おみやげを<ruby>買<rt>か</rt></ruby>いすぎて、スーツケースに<ruby>全部<rt>ぜんぶ</rt></ruby>＿＿＿ことができない。",
+    "choices": [
+      "つめる",
+      "つまる",
+      "つつむ",
+      "つもる"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：買太多伴手禮，無法全部裝進行李箱。\n\n- **<ruby>詰<rt>つ</rt></ruby>める**（つめる）裝入、塞進\n- **<ruby>詰<rt>つ</rt></ruby>まる**（つまる）塞滿、堵塞\n- **<ruby>包<rt>つつ</rt></ruby>む**（つつむ）包裝\n- **<ruby>積<rt>つ</rt></ruby>もる**（つもる）堆積、累積　◆<ruby>雪<rt>ゆき</rt></ruby>が積もる 積雪"
+  },
+  {
+    "id": "n3-完勝-q286",
+    "week": 3,
+    "day": 3,
+    "number": 286,
+    "page": 169,
+    "type": "ぶんぽう",
+    "question": "<ruby>学校<rt>がっこう</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めました。＿＿＿、<ruby>父<rt>ちち</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなって、<ruby>働<rt>はたら</rt></ruby>かなければならないからです。",
+    "choices": [
+      "というと",
+      "というのは",
+      "というならば",
+      "ということは"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：我從學校休學了。是因為父親過世後我必須出去工作。\n\n**〜というのは** 那是因為〜　＊用於說明理由\n- ◆<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しします。というのは、<ruby>転勤<rt>てんきん</rt></ruby>になったからです。 下個月要搬家，是因為調職了。\n\n**〜ということは** 那表示〜\n- ◆A「<ruby>私<rt>わたし</rt></ruby>、<ruby>名前<rt>なまえ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わりました。」B「ということは、ご<ruby>結婚<rt>けっこん</rt></ruby>なさったんですか。」 A「我的名字變更了」B「也就是說您結婚了嗎？」"
+  },
+  {
+    "id": "n3-完勝-q287",
+    "week": 3,
+    "day": 3,
+    "number": 287,
+    "page": 171,
+    "type": "もじ",
+    "question": "<ruby>係員<rt>かかりいん</rt></ruby>に<ruby>整理券<rt>せいりけん</rt></ruby>をもらえば、<u>並んで</u><ruby>待<rt>ま</rt></ruby>たなくてもいいそうです。",
+    "choices": [
+      "えらんで",
+      "まなんで",
+      "ならんで",
+      "にらんで"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：跟工作人員拿號碼牌的話，就不用排隊等候了。\n\n**漢字整理**\n- 係 ケイ：<ruby>関係<rt>かんけい</rt></ruby>する／かかり：<ruby>係<rt>かかり</rt></ruby>（人員、負責者）\n- 券 ケン：<ruby>乗車券<rt>じょうしゃけん</rt></ruby>・<ruby>定期券<rt>ていきけん</rt></ruby>（月票）・<ruby>特急券<rt>とっきゅうけん</rt></ruby>\n- 並 なら(-ぶ/-べる)：並ぶ（排隊）・並べる（陳列）"
+  },
+  {
+    "id": "n3-完勝-q288",
+    "week": 3,
+    "day": 3,
+    "number": 288,
+    "page": 171,
+    "type": "ごい",
+    "question": "<ruby>今<rt>いま</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>は、<ruby>内容<rt>ないよう</rt></ruby>は<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っているが、<ruby>給料<rt>きゅうりょう</rt></ruby>については＿＿＿だ。",
+    "choices": [
+      "<ruby>不要<rt>ふよう</rt></ruby>",
+      "<ruby>不幸<rt>ふこう</rt></ruby>",
+      "<ruby>不平<rt>ふへい</rt></ruby>",
+      "<ruby>不満<rt>ふまん</rt></ruby>"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：喜歡現在工作的內容，但對薪水不滿。\n\n- **<ruby>不満<rt>ふまん</rt></ruby>な**（ふまんな）不滿意的　⇔ <ruby>満足<rt>まんぞく</rt></ruby>する 滿足\n- **<ruby>不要<rt>ふよう</rt></ruby>な**（ふような）不需要的\n- **<ruby>不幸<rt>ふこう</rt></ruby>な**（ふこうな）不幸的　⇔ <ruby>幸福<rt>こうふく</rt></ruby>な 幸福\n- **<ruby>不平<rt>ふへい</rt></ruby>**（ふへい）不滿、牢騷　◆不平を<ruby>言<rt>い</rt></ruby>う 發牢騷"
+  },
+  {
+    "id": "n3-完勝-q289",
+    "week": 3,
+    "day": 3,
+    "number": 289,
+    "page": 171,
+    "type": "ぶんぽう",
+    "question": "＿＿＿、この<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>してきてくれませんか。",
+    "choices": [
+      "<ruby>散歩<rt>さんぽ</rt></ruby>のままで",
+      "<ruby>散歩<rt>さんぽ</rt></ruby>した<ruby>最中<rt>さいちゅう</rt></ruby>に",
+      "<ruby>散歩<rt>さんぽ</rt></ruby>のついでに",
+      "<ruby>散歩<rt>さんぽ</rt></ruby>している<ruby>中<rt>なか</rt></ruby>"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：散步的時候順便寄這封信好嗎？\n\n**〜ついでに** 順便〜\n- ◆<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くついでに<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>へ<ruby>寄<rt>よ</rt></ruby>った。 去買東西時順便繞去郵局。\n\n**〜<ruby>最中<rt>さいちゅう</rt></ruby>に** 正在〜時\n- ◆<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>携帯電話<rt>けいたいでんわ</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った。 開會時手機突然響了。"
+  },
+  {
+    "id": "n3-完勝-q290",
+    "week": 3,
+    "day": 3,
+    "number": 290,
+    "page": 173,
+    "type": "もじ",
+    "question": "<ruby>投手<rt>とうしゅ</rt></ruby>はよく<ruby>投<rt>な</rt></ruby>げたが、<ruby>最後<rt>さいご</rt></ruby>にホームランを<ruby>打<rt>う</rt></ruby>たれて<u>まけて</u>しまった。",
+    "choices": [
+      "負けて",
+      "無けて",
+      "失けて",
+      "欠けて"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：雖然投手投得很好，但最後被打了全壘打而輸了。\n\n**漢字整理**\n- 投 トウ：<ruby>投票<rt>とうひょう</rt></ruby>する・<ruby>投資<rt>とうし</rt></ruby>／な(-げる)：投げる（投、扔）\n- 打 う(-つ)：<ruby>打<rt>う</rt></ruby>つ（打）\n- 負 フ：<ruby>負担<rt>ふたん</rt></ruby>する・<ruby>勝負<rt>しょうぶ</rt></ruby>／ま(-ける)：負ける（輸、敗）"
+  },
+  {
+    "id": "n3-完勝-q291",
+    "week": 3,
+    "day": 3,
+    "number": 291,
+    "page": 173,
+    "type": "ごい",
+    "question": "<ruby>上司<rt>じょうし</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって、そんな<ruby>失礼<rt>しつれい</rt></ruby>なことを<ruby>言<rt>い</rt></ruby>うのは＿＿＿だ。",
+    "choices": [
+      "いじわる",
+      "げひん",
+      "なまいき",
+      "のんき"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：對身為上司的我說那種失禮的話，真是狂妄。\n\n- **<ruby>生意気<rt>なまいき</rt></ruby>な**（なまいきな）狂妄的\n- **<ruby>意地悪<rt>いじわる</rt></ruby>な**（いじわるな）不友善的、欺負人的\n- **<ruby>下品<rt>げひん</rt></ruby>な**（げひんな）下流的、粗俗的　⇔ <ruby>上品<rt>じょうひん</rt></ruby>な 高雅的\n- **のんきな** 無憂無慮的"
+  },
+  {
+    "id": "n3-完勝-q292",
+    "week": 3,
+    "day": 3,
+    "number": 292,
+    "page": 173,
+    "type": "ぶんぽう",
+    "question": "<ruby>今朝<rt>けさ</rt></ruby>、<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を＿＿＿<ruby>気持<rt>きも</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>くなって<ruby>吐<rt>は</rt></ruby>いた。",
+    "choices": [
+      "<ruby>飲<rt>の</rt></ruby>むところに",
+      "<ruby>飲<rt>の</rt></ruby>むたびに",
+      "<ruby>飲<rt>の</rt></ruby>んだとたんに",
+      "<ruby>飲<rt>の</rt></ruby>んだながら"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：今天早上喝完牛奶後就感到不舒服而吐了。\n\n**V たとたんに** 一〜就〜\n- ◆<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたとたんに、ハチが<ruby>入<rt>はい</rt></ruby>ってきた。 一打開窗子，蜜蜂就飛進來。\n\n**V るたびに** 每〜\n- ◆この<ruby>曲<rt>きょく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くたびに、<ruby>亡<rt>な</rt></ruby>くなった<ruby>母<rt>はは</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>す。 每聽到這首曲子，就會想起過世的母親。"
+  },
+  {
+    "id": "n3-完勝-q293",
+    "week": 3,
+    "day": 3,
+    "number": 293,
+    "page": 175,
+    "type": "もじ",
+    "question": "<ruby>私<rt>わたし</rt></ruby>は<u>経済</u>に<ruby>関<rt>かん</rt></ruby>する<ruby>記事<rt>きじ</rt></ruby>をよく<ruby>読<rt>よ</rt></ruby>みます。",
+    "choices": [
+      "かいさい",
+      "かいざい",
+      "けいさい",
+      "けいざい"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：我經常閱讀和經濟有關的報導。\n\n**漢字整理**\n- 経 ケイ：<ruby>経済<rt>けいざい</rt></ruby>・<ruby>経験<rt>けいけん</rt></ruby>する（經驗）・<ruby>経由<rt>けいゆ</rt></ruby>する・<ruby>神経<rt>しんけい</rt></ruby>\n- 済 サイ：経済／す(-む)：済む（解決、結束）\n- 関 カン：<ruby>関係<rt>かんけい</rt></ruby>する・<ruby>関心<rt>かんしん</rt></ruby>・<ruby>機関<rt>きかん</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q294",
+    "week": 3,
+    "day": 3,
+    "number": 294,
+    "page": 175,
+    "type": "ごい",
+    "question": "<ruby>田中<rt>たなか</rt></ruby>さんに<ruby>結婚<rt>けっこん</rt></ruby>を<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>まれたけれど、はっきり＿＿＿つもりです。",
+    "choices": [
+      "ことわる",
+      "きらう",
+      "いやがる",
+      "つきあえない"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：田中先生向我求婚，但是我打算明確地拒絕他。\n\n- **<ruby>断<rt>ことわ</rt></ruby>る**（ことわる）拒絕\n- **<ruby>嫌<rt>きら</rt></ruby>う**（きらう）討厭、厭惡\n- **<ruby>嫌<rt>いや</rt></ruby>がる**（いやがる）感到討厭\n- **<ruby>付<rt>つ</rt></ruby>き<ruby>合<rt>あ</rt></ruby>う**（つきあう）交往、陪伴\n  - ◆<ruby>彼<rt>かれ</rt></ruby>はみんなに<ruby>嫌<rt>きら</rt></ruby>われている。 他被大家所討厭。"
+  },
+  {
+    "id": "n3-完勝-q295",
+    "week": 3,
+    "day": 3,
+    "number": 295,
+    "page": 175,
+    "type": "ぶんぽう",
+    "question": "A「Bさんは<ruby>泳<rt>およ</rt></ruby>げますか。」B「＿＿＿が、ぜんぜん<ruby>速<rt>はや</rt></ruby>くないです。」",
+    "choices": [
+      "<ruby>泳<rt>およ</rt></ruby>げるつもりです",
+      "<ruby>泳<rt>およ</rt></ruby>げることは<ruby>泳<rt>およ</rt></ruby>げます",
+      "<ruby>泳<rt>およ</rt></ruby>げるかもしれません",
+      "<ruby>泳<rt>およ</rt></ruby>げるかどうか<ruby>知<rt>し</rt></ruby>りません"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：A「B 先生會游泳嗎？」B「會是會游，但游不快。」\n\n**〜ことは〜が…** 雖然〜，但…\n\n- ◆パーティーに<ruby>行<rt>い</rt></ruby>ったことは行ったんですが、すぐに<ruby>帰<rt>かえ</rt></ruby>ってきました。 雖然去過派對，但很快就回來了。\n- ◆その<ruby>本<rt>ほん</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いことは高いけれど、<ruby>必要<rt>ひつよう</rt></ruby>なので<ruby>買<rt>か</rt></ruby>わなければいけない。 雖然書貴，但因為需要不得不買。"
+  },
+  {
+    "id": "n3-完勝-q296",
+    "week": 3,
+    "day": 4,
+    "number": 296,
+    "page": 177,
+    "type": "もじ",
+    "question": "A「この<u>けいと</u>のセーター、いい<ruby>香<rt>かお</rt></ruby>りがするね。」B「うん。これで<ruby>洗<rt>あら</rt></ruby>ったの。」",
+    "choices": [
+      "もうふ",
+      "もうし",
+      "けえと",
+      "けいと"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：A「這毛線衣有香味」B「嗯，用這個洗的」\n\n**漢字整理**\n- 毛 モウ：<ruby>羊毛<rt>ようもう</rt></ruby>／け：毛\n- 糸 シ：<ruby>絹糸<rt>けんし</rt></ruby>／いと：<ruby>糸<rt>いと</rt></ruby>（線）\n- 香 コウ：<ruby>香水<rt>こうすい</rt></ruby>／かお(-り)：<ruby>香<rt>かお</rt></ruby>り（香味）"
+  },
+  {
+    "id": "n3-完勝-q297",
+    "week": 3,
+    "day": 4,
+    "number": 297,
+    "page": 177,
+    "type": "ごい",
+    "question": "<ruby>隣<rt>となり</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>のテレビがうるさいので、＿＿＿を<ruby>言<rt>い</rt></ruby>いに<ruby>行<rt>い</rt></ruby>った。",
+    "choices": [
+      "<ruby>文句<rt>もんく</rt></ruby>",
+      "わがまま",
+      "<ruby>不平<rt>ふへい</rt></ruby>",
+      "<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：鄰居家的電視太吵了，所以去抱怨。\n\n- **<ruby>文句<rt>もんく</rt></ruby>**（もんく）抱怨　◆文句を<ruby>言<rt>い</rt></ruby>う 發牢騷\n- **わがまま** 任性的、隨意的　◆わがままな<ruby>子供<rt>こども</rt></ruby> 任性的孩子\n- **<ruby>不平<rt>ふへい</rt></ruby>** 不滿、牢騷\n- **<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>い** 商談、討論"
+  },
+  {
+    "id": "n3-完勝-q298",
+    "week": 3,
+    "day": 4,
+    "number": 298,
+    "page": 177,
+    "type": "ぶんぽう",
+    "question": "その<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>漢字<rt>かんじ</rt></ruby>＿＿＿、ひらがなもカタカナも<ruby>書<rt>か</rt></ruby>けません。",
+    "choices": [
+      "だけで",
+      "もちろん",
+      "ぐらいでなく",
+      "ばかりか"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：那個學生不只是漢字，平假名和片假名都不會寫。\n\n**N1 ばかりか N2 も** 不只是 N1，N2 也\n- ◆<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>英語<rt>えいご</rt></ruby>ばかりか、<ruby>中国語<rt>ちゅうごくご</rt></ruby>やフランス語も<ruby>話<rt>はな</rt></ruby>せる。 田中先生不只英語，中文和法文也會說。\n\n**N1 はもちろん N2 も** N1 不用說，N2 也\n- ◆<ruby>田中<rt>たなか</rt></ruby>さんはピアノはもちろん、ギターやバイオリンもできる。 田中先生鋼琴就不用說了，吉他和小提琴也會。"
+  },
+  {
+    "id": "n3-完勝-q299",
+    "week": 3,
+    "day": 4,
+    "number": 299,
+    "page": 179,
+    "type": "もじ",
+    "question": "<ruby>畑<rt>はたけ</rt></ruby>に<u>たね</u>をまく。",
+    "choices": [
+      "草",
+      "種",
+      "根",
+      "豆"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：將種子撒在田中。\n\n**漢字整理**\n- 根 ね：<ruby>根<rt>ね</rt></ruby>（根、根源）\n- 草 くさ：<ruby>草<rt>くさ</rt></ruby>・<ruby>雑草<rt>ざっそう</rt></ruby>\n- 種 シュ：<ruby>種類<rt>しゅるい</rt></ruby>・<ruby>人種<rt>じんしゅ</rt></ruby>／たね：種・<ruby>種子<rt>しゅし</rt></ruby>"
+  },
+  {
+    "id": "n3-完勝-q300",
+    "week": 3,
+    "day": 4,
+    "number": 300,
+    "page": 179,
+    "type": "ごい",
+    "question": "<ruby>田舎<rt>いなか</rt></ruby>の<ruby>母<rt>はは</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>したが、＿＿＿。<ruby>心配<rt>しんぱい</rt></ruby>だ。",
+    "choices": [
+      "とどかない",
+      "つながらない",
+      "もどらない",
+      "そろわない"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：打電話給鄉下的母親，但是電話接不通。很擔心。\n\n- **つながる** 連繫、聯絡上\n- **<ruby>届<rt>とど</rt></ruby>く**（とどく）達到、送到\n- **<ruby>戻<rt>もど</rt></ruby>る**（もどる）恢復、返回\n- **そろう** 齊全、成套"
+  },
+  {
+    "id": "n3-完勝-q301",
+    "week": 3,
+    "day": 4,
+    "number": 301,
+    "page": 179,
+    "type": "ぶんぽう",
+    "question": "<ruby>一年生<rt>いちねんせい</rt></ruby>は<ruby>全員<rt>ぜんいん</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける＿＿＿。",
+    "choices": [
+      "ことらしい",
+      "ことのようだ",
+      "ことをしている",
+      "ことになっている"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：規定一年級生全部都要上這堂課。\n\n**V ることになっている** 規定要〜、按照規定\n\n- ◆<ruby>明日<rt>あした</rt></ruby>、<ruby>上司<rt>じょうし</rt></ruby>とそのことについて<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うことになっている。 明天規定要和上司討論那件事。\n- ◆<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したら、<ruby>父<rt>ちち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>継<rt>つ</rt></ruby>ぐことになっている。 大學畢業就要繼承父親的事業。"
+  },
+  {
+    "id": "n3-完勝-q302",
+    "week": 3,
+    "day": 4,
+    "number": 302,
+    "page": 181,
+    "type": "もじ",
+    "question": "<u>非常階段</u>はあそこです。",
+    "choices": [
+      "ひじょうかいだん",
+      "いじょうかいだん",
+      "ひじょうけいだん",
+      "いじょうけいだん"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：逃生樓梯在那裡。\n\n**漢字整理**\n- 非 ヒ：<ruby>非常<rt>ひじょう</rt></ruby>（非常）・<ruby>非常口<rt>ひじょうぐち</rt></ruby>（緊急出口）・非常に（非常）\n- 階 カイ：<ruby>階段<rt>かいだん</rt></ruby>・1<ruby>階<rt>かい</rt></ruby>・2階・3階\n- 段 ダン：<ruby>階段<rt>かいだん</rt></ruby>・<ruby>段階<rt>だんかい</rt></ruby>（步驟）・<ruby>手段<rt>しゅだん</rt></ruby>（手段、方法）"
+  },
+  {
+    "id": "n3-完勝-q303",
+    "week": 3,
+    "day": 4,
+    "number": 303,
+    "page": 181,
+    "type": "ごい",
+    "question": "<ruby>停電<rt>ていでん</rt></ruby>なのか、<ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えて＿＿＿<ruby>何<rt>なに</rt></ruby>も<ruby>見<rt>み</rt></ruby>えない。",
+    "choices": [
+      "まっくろで",
+      "うすくらくて",
+      "まっくらで",
+      "うすぐろくて"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：不曉得是否停電，電燈熄了一片漆黑，什麼都看不到。\n\n- **<ruby>真<rt>ま</rt></ruby>っ<ruby>暗<rt>くら</rt></ruby>な**（まっくらな）漆黑的\n- **<ruby>真<rt>ま</rt></ruby>っ<ruby>黒<rt>くろ</rt></ruby>な**（まっくろな）黑黑的\n- **<ruby>薄暗<rt>うすぐら</rt></ruby>い**（うすぐらい）光線昏暗、略暗\n\n＊<ruby>真<rt>ま</rt></ruby>っ<ruby>青<rt>さお</rt></ruby>な 鮮藍的　＊<ruby>真<rt>ま</rt></ruby>っ<ruby>赤<rt>か</rt></ruby>な 鮮紅的"
+  },
+  {
+    "id": "n3-完勝-q304",
+    "week": 3,
+    "day": 4,
+    "number": 304,
+    "page": 181,
+    "type": "ぶんぽう",
+    "question": "<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>った<ruby>靴<rt>くつ</rt></ruby>があったけど、<ruby>買<rt>か</rt></ruby>えなかったよ。＿＿＿。",
+    "choices": [
+      "<ruby>高<rt>たか</rt></ruby>かっただけ",
+      "<ruby>高<rt>たか</rt></ruby>かったんだって",
+      "<ruby>高<rt>たか</rt></ruby>かったとか",
+      "<ruby>高<rt>たか</rt></ruby>かったんだもん"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：雖然有看到喜歡的鞋子但買不下手。因為很貴。\n\n**（だって）〜のもん／〜だもん** 因為〜、由於　＊用於說明理由\n- ◆A「どうして<ruby>食<rt>た</rt></ruby>べないの？」B「だってまずいんだもん。」 A「為什麼不吃？」B「因為太難吃了！」\n\n**〜とか** 聽說、表示傳聞\n- ◆<ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>したとか。 聽說社長住院了。\n- ◆<ruby>田中<rt>たなか</rt></ruby>さん、<ruby>結婚<rt>けっこん</rt></ruby>するんだって。 聽說田中先生要結婚了。"
+  },
+  {
+    "id": "n3-完勝-q305",
+    "week": 3,
+    "day": 4,
+    "number": 305,
+    "page": 183,
+    "type": "もじ",
+    "question": "<ruby>勝<rt>か</rt></ruby>ったチームだけでなく、どのチームもよく<u>たたかった</u>。",
+    "choices": [
+      "戦った",
+      "争った",
+      "競った",
+      "健った"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：不只獲勝的隊伍，每一隊都全力出戰。\n\n**漢字整理**\n- 勝 ショウ：<ruby>優勝<rt>ゆうしょう</rt></ruby>する・<ruby>勝手<rt>かって</rt></ruby>（任意地）／か(-つ)：<ruby>勝<rt>か</rt></ruby>つ（贏）\n- 戦 セン：<ruby>戦争<rt>せんそう</rt></ruby>・<ruby>延長戦<rt>えんちょうせん</rt></ruby>／たたか(-う)：戦う（戰鬥、對戰）\n- 争 ソウ：<ruby>競争<rt>きょうそう</rt></ruby>する・<ruby>論争<rt>ろんそう</rt></ruby>／あらそ(-う)：争う（爭奪、對抗）"
+  },
+  {
+    "id": "n3-完勝-q306",
+    "week": 3,
+    "day": 4,
+    "number": 306,
+    "page": 183,
+    "type": "ごい",
+    "question": "<ruby>夜中<rt>よなか</rt></ruby>に<ruby>起<rt>お</rt></ruby>きて<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのが＿＿＿しまった。",
+    "choices": [
+      "くりかえして",
+      "ためになって",
+      "くせになって",
+      "あたりまえにして"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：半夜起來喝水已成了習慣。\n\n- **くせになる** 變成習慣、形成習慣\n- **くり<ruby>返<rt>かえ</rt></ruby>す**（くりかえす）反覆、重複\n- **ためになる** 有益、有幫助\n- **<ruby>当<rt>あ</rt></ruby>たり<ruby>前<rt>まえ</rt></ruby>**（あたりまえ）理所當然"
+  },
+  {
+    "id": "n3-完勝-q307",
+    "week": 3,
+    "day": 4,
+    "number": 307,
+    "page": 183,
+    "type": "ぶんぽう",
+    "question": "<ruby>今日<rt>きょう</rt></ruby>のコンサート、<ruby>何時<rt>なんじ</rt></ruby>から＿＿＿？",
+    "choices": [
+      "だっけ",
+      "とか",
+      "っぽい",
+      "なあ"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：今天的演唱會是幾點開始來著？\n\n**〜だっけ**　＊用於確認回想忘記的事物、再次確認的時候\n- ◆これ、<ruby>前<rt>まえ</rt></ruby>に<ruby>話<rt>はな</rt></ruby>したっけ？ 這之前也講過嗎？\n\n**〜っぽい** 有〜的傾向\n- ◆あの<ruby>子<rt>こ</rt></ruby>、まだ13<ruby>歳<rt>さい</rt></ruby>なのに、<ruby>大人<rt>おとな</rt></ruby>っぽいね。 那孩子明明才 13 歲，舉止卻很像大人。\n- ◆<ruby>最近<rt>さいきん</rt></ruby>、<ruby>忘<rt>わす</rt></ruby>れっぽくなった。 最近變得很健忘。"
+  },
+  {
+    "id": "n3-完勝-q308",
+    "week": 3,
+    "day": 4,
+    "number": 308,
+    "page": 185,
+    "type": "もじ",
+    "question": "この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>家具<rt>かぐ</rt></ruby>や<ruby>食器<rt>しょっき</rt></ruby>を<u>せいぞう</u>している。",
+    "choices": [
+      "せいぞう",
+      "せいじょう",
+      "そうぞう",
+      "そうじょう"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：這家公司在製造家具和餐具。\n\n**漢字整理**\n- 具 グ：<ruby>道具<rt>どうぐ</rt></ruby>・<ruby>家具<rt>かぐ</rt></ruby>・<ruby>器具<rt>きぐ</rt></ruby>\n- 器 キ：<ruby>食器<rt>しょっき</rt></ruby>・<ruby>器具<rt>きぐ</rt></ruby>\n- 造 ゾウ：<ruby>製造<rt>せいぞう</rt></ruby>する・<ruby>構造<rt>こうぞう</rt></ruby>／つく(-る)：<ruby>造<rt>つく</rt></ruby>る（製造、建造）"
+  },
+  {
+    "id": "n3-完勝-q309",
+    "week": 3,
+    "day": 4,
+    "number": 309,
+    "page": 185,
+    "type": "ごい",
+    "question": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>かった。<ruby>早<rt>はや</rt></ruby>くシャワーを<ruby>浴<rt>あ</rt></ruby>びて＿＿＿したい。",
+    "choices": [
+      "あっさり",
+      "こっそり",
+      "さっぱり",
+      "すっかり"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：今天好熱。真想快點沖個澡，清爽一下。\n\n- **さっぱりする** 清爽、乾脆　＊さっぱりわからない 一點都不懂\n- **あっさりする** 清淡　◆あっさりした<ruby>味<rt>あじ</rt></ruby> 清淡的味道\n- **こっそり** 偷偷地、悄悄地　◆こっそり<ruby>逃<rt>に</rt></ruby>げる 偷偷逃走"
+  },
+  {
+    "id": "n3-完勝-q310",
+    "week": 3,
+    "day": 4,
+    "number": 310,
+    "page": 185,
+    "type": "ぶんぽう",
+    "question": "<ruby>私<rt>わたし</rt></ruby>は1995<ruby>年<rt>ねん</rt></ruby> a ＿＿＿ 2000年 b ＿＿＿、ニューヨークに<ruby>住<rt>す</rt></ruby>んでいました。",
+    "choices": [
+      "a いじょう／b にかけて",
+      "a にわたり／b まで",
+      "a から／b にかけて",
+      "a より／b わたり"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：我從 1995 年到 2000 年一直住在紐約。\n\n**N1 から N2 にかけて** 從 N1 到 N2　＊N = 時間、場所\n- ◆<ruby>昨夜<rt>さくや</rt></ruby>、<ruby>関東<rt>かんとう</rt></ruby>から<ruby>東北<rt>とうほく</rt></ruby>にかけて<ruby>大雨<rt>おおあめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>った。 昨晚從關東到東北下了大雨。\n\n**N にわたって** 長達〜、廣為〜　＊N = 時間、次數、場所\n- ◆その<ruby>会議<rt>かいぎ</rt></ruby>は5<ruby>日間<rt>にちかん</rt></ruby>にわたって<ruby>行<rt>おこな</rt></ruby>われた。 那會議連續長達 5 天。"
+  },
+  {
+    "id": "n3-完勝-q311",
+    "week": 3,
+    "day": 5,
+    "number": 311,
+    "page": 187,
+    "type": "もじ",
+    "question": "<ruby>国際会議<rt>こくさいかいぎ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まったことを<ruby>報告<rt>ほうこく</rt></ruby>する。",
+    "choices": [
+      "こくせい",
+      "こくぜい",
+      "こくさつ",
+      "こくさい"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：報告國際會議中決定的事項。\n\n**<u>際</u> サイ**：<ruby>国際的<rt>こくさいてき</rt></ruby> 國際性的 ／ <ruby>不思議<rt>ふしぎ</rt></ruby> 不可思議 ／ 〜の<ruby>際<rt>さい</rt></ruby> 〜之際\n**議 ギ**：<ruby>会議<rt>かいぎ</rt></ruby> 會議 ／ <ruby>不思議<rt>ふしぎ</rt></ruby>\n**決 ケツ**：<ruby>解決<rt>かいけつ</rt></ruby>する 解決 ／ <ruby>決定<rt>けってい</rt></ruby>する 決定 ／ <ruby>決心<rt>けっしん</rt></ruby> 決心\n**き(-まる／-める)**：<ruby>決<rt>き</rt></ruby>まる ／ <ruby>決<rt>き</rt></ruby>める"
+  },
+  {
+    "id": "n3-完勝-q312",
+    "week": 3,
+    "day": 5,
+    "number": 312,
+    "page": 187,
+    "type": "ごい",
+    "question": "<ruby>早<rt>はや</rt></ruby>く<ruby>仕事<rt>しごと</rt></ruby>を＿＿＿、<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>こう。",
+    "choices": [
+      "<ruby>終<rt>お</rt></ruby>わられて",
+      "<ruby>済<rt>す</rt></ruby>ませて",
+      "<ruby>仕上<rt>しあ</rt></ruby>がらせて",
+      "できあげて"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：早點把工作做完，去喝一杯吧！\n\n**OK**：<ruby>仕上<rt>しあ</rt></ruby>げて／<ruby>終<rt>お</rt></ruby>わらせて\n<s><ruby>仕上<rt>しあ</rt></ruby>がらせて</s> 言わない！\n\n**<ruby>済<rt>す</rt></ruby>む** (すむ) 結束、完成\n**<ruby>済<rt>す</rt></ruby>ませる** (すませる) 使〜完成、做完\n- ◆<ruby>食事<rt>しょくじ</rt></ruby>が<ruby>済<rt>す</rt></ruby>む 用餐結束\n- ◆<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませる 做完功課\n- ◆<ruby>仕事<rt>しごと</rt></ruby>を<ruby>済<rt>す</rt></ruby>ます 結束工作"
+  },
+  {
+    "id": "n3-完勝-q313",
+    "week": 3,
+    "day": 5,
+    "number": 313,
+    "page": 187,
+    "type": "ぶんぽう",
+    "question": "＿＿＿、<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>します。",
+    "choices": [
+      "たとえ<ruby>親<rt>おや</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>したら",
+      "たとえば<ruby>親<rt>おや</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>したら",
+      "たとえ<ruby>親<rt>おや</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>されても",
+      "たとえば<ruby>親<rt>おや</rt></ruby>が<ruby>反対<rt>はんたい</rt></ruby>されても"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：即便父母反對，我也要和他結婚。\n\n**たとえ〜ても** (=もし〜ても 即使〜也)\n- ◆たとえ<ruby>熱<rt>ねつ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ても、<ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>には<ruby>出<rt>で</rt></ruby>ます。 即便發燒，明天的會議也要出席。\n- ◆たとえ<ruby>冗談<rt>じょうだん</rt></ruby>でも、そんなことを<ruby>言<rt>い</rt></ruby>うのはよくない。 即使是玩笑話，說那種話也不好。"
+  },
+  {
+    "id": "n3-完勝-q314",
+    "week": 3,
+    "day": 5,
+    "number": 314,
+    "page": 189,
+    "type": "もじ",
+    "question": "トイレを<ruby>使<rt>つか</rt></ruby>ったら、ここを<ruby>押<rt>お</rt></ruby>して<ruby>水<rt>みず</rt></ruby>を<u>ながして</u>ください。",
+    "choices": [
+      "<ruby>流<rt>なが</rt></ruby>して",
+      "<ruby>移<rt>うつ</rt></ruby>して",
+      "<ruby>過<rt>す</rt></ruby>して",
+      "<ruby>汚<rt>よご</rt></ruby>して"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：上完廁所後，請按這裡沖水。\n\n**<u>流</u> リュウ**：<ruby>流行<rt>りゅうこう</rt></ruby> 流行 ／ <ruby>交流<rt>こうりゅう</rt></ruby> 交流\n**なが(-れる／-す)**：<ruby>流<rt>なが</rt></ruby>れる ／ <ruby>流<rt>なが</rt></ruby>す 沖、流\n**移 イ**：<ruby>移動<rt>いどう</rt></ruby>する 移動\n**うつ(-る／-す)**：<ruby>移<rt>うつ</rt></ruby>る／<ruby>移<rt>うつ</rt></ruby>す 搬移、移轉\n**過 カ**：<ruby>過去<rt>かこ</rt></ruby> 過去 ／ <ruby>通過<rt>つうか</rt></ruby> 通過 ／ <ruby>過失<rt>かしつ</rt></ruby> 過失\n**す(-ぎる／-ごす)**：<ruby>過<rt>す</rt></ruby>ぎる 超過 ／ <ruby>過<rt>す</rt></ruby>ごす 度過（時間）"
+  },
+  {
+    "id": "n3-完勝-q315",
+    "week": 3,
+    "day": 5,
+    "number": 315,
+    "page": 189,
+    "type": "ごい",
+    "question": "もう、5<ruby>時<rt>じ</rt></ruby>だ。<ruby>夕飯<rt>ゆうはん</rt></ruby>の＿＿＿をしなくちゃ。",
+    "choices": [
+      "しあがり",
+      "かたづけ",
+      "ようじ",
+      "したく"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：已經 5 點了，得準備晚飯了。\n\n**<ruby>支度<rt>したく</rt></ruby>**（したく）準備\n- ◆<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>支度<rt>したく</rt></ruby>をする 旅行的準備\n**<ruby>仕上<rt>しあ</rt></ruby>がり**（しあがり）完成、結束\n**<ruby>片付<rt>かたづ</rt></ruby>け**（かたづけ）整理、打掃\n**<ruby>用事<rt>ようじ</rt></ruby>**（ようじ）事情、任務"
+  },
+  {
+    "id": "n3-完勝-q316",
+    "week": 3,
+    "day": 5,
+    "number": 316,
+    "page": 189,
+    "type": "ぶんぽう",
+    "question": "その<ruby>学生<rt>がくせい</rt></ruby>は、<ruby>講義<rt>こうぎ</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで<ruby>聞<rt>き</rt></ruby>かない＿＿＿<ruby>教室<rt>きょうしつ</rt></ruby>を<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>った。",
+    "choices": [
+      "あいだに",
+      "うちに",
+      "までに",
+      "<ruby>最中<rt>さいちゅう</rt></ruby>に"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：那位學生沒聽完課就離開了教室。\n\n**〜うちに** (=〜している<ruby>間<rt>あいだ</rt></ruby>に 趁著〜的時候)\n- ◆<ruby>働<rt>はたら</rt></ruby>けるうちにお<ruby>金<rt>かね</rt></ruby>を<ruby>貯<rt>た</rt></ruby>めよう。 趁能工作的時候存錢。\n- ◆<ruby>暗<rt>くら</rt></ruby>くならないうちに<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りなさい。 趁天黑前回家。\n- ◆2、3<ruby>日<rt>にち</rt></ruby>のうちにお<ruby>伺<rt>うかが</rt></ruby>いします。 2、3 天內前去拜訪。"
+  },
+  {
+    "id": "n3-完勝-q317",
+    "week": 3,
+    "day": 5,
+    "number": 317,
+    "page": 191,
+    "type": "もじ",
+    "question": "<ruby>科学技術<rt>かがくぎじゅつ</rt></ruby>の<u><ruby>発達<rt>はったつ</rt></ruby></u>とともに、<ruby>解決<rt>かいけつ</rt></ruby>すべき<ruby>問題<rt>もんだい</rt></ruby>も<ruby>生<rt>しょう</rt></ruby>じている。",
+    "choices": [
+      "はいたつ",
+      "はったつ",
+      "はたつ",
+      "はだつ"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：隨著科學技術的發達，也產生了必須解決的問題。\n\n**科 カ**：<ruby>科学<rt>かがく</rt></ruby> 科學 ／ <ruby>教科書<rt>きょうかしょ</rt></ruby> 教科書\n**<u>達</u> タツ**：<ruby>発達<rt>はったつ</rt></ruby>する 發達 ／ <ruby>配達<rt>はいたつ</rt></ruby>する 配送 ／ <ruby>速達<rt>そくたつ</rt></ruby> 限時 ／ <ruby>友達<rt>ともだち</rt></ruby> 朋友\n**解 カイ**：<ruby>理解<rt>りかい</rt></ruby>する 理解 ／ <ruby>解決<rt>かいけつ</rt></ruby> 解決 ／ <ruby>解答<rt>かいとう</rt></ruby> 解答\n**と(-ける／-く)**：<ruby>解<rt>と</rt></ruby>ける 鬆、消、解開 ／ <ruby>解<rt>と</rt></ruby>く 把〜解開"
+  },
+  {
+    "id": "n3-完勝-q318",
+    "week": 3,
+    "day": 5,
+    "number": 318,
+    "page": 191,
+    "type": "ごい",
+    "question": "<ruby>勉強<rt>べんきょう</rt></ruby>しろ、<ruby>勉強<rt>べんきょう</rt></ruby>しろって、あんまり＿＿＿<ruby>言<rt>い</rt></ruby>われると、やる<ruby>気<rt>き</rt></ruby>がなくなるよ。",
+    "choices": [
+      "くわしく",
+      "うるさく",
+      "けわしく",
+      "ばからしく"
+    ],
+    "answer": 1,
+    "explanation": "**中譯**：用功點、用功點，被嘮叨太多次，就沒幹勁了。\n\n**うるさい** 吵雜的、煩人的（=そうぞうしい・さわがしい）\n- ◆うるさい<ruby>通<rt>とお</rt></ruby>り 吵雜的街道\n- ◆うるさく<ruby>言<rt>い</rt></ruby>う 嘮叨個不停\n**<ruby>険<rt>けわ</rt></ruby>しい** 險峻的\n- ◆<ruby>険<rt>けわ</rt></ruby>しい<ruby>道<rt>みち</rt></ruby> 險峻的道路\n**ばからしい** 愚蠢的、荒謬的"
+  },
+  {
+    "id": "n3-完勝-q319",
+    "week": 3,
+    "day": 5,
+    "number": 319,
+    "page": 191,
+    "type": "ぶんぽう",
+    "question": "そんなに<ruby>夜遅<rt>よるおそ</rt></ruby>く、<ruby>子<rt>こ</rt></ruby>どもを＿＿＿。",
+    "choices": [
+      "<ruby>外出<rt>がいしゅつ</rt></ruby>させないわけだ",
+      "<ruby>外出<rt>がいしゅつ</rt></ruby>させるわけではない",
+      "<ruby>外出<rt>がいしゅつ</rt></ruby>させるべきだ",
+      "<ruby>外出<rt>がいしゅつ</rt></ruby>させるべきではない"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：那麼晚了，不該讓孩子外出。\n\n**〜べきだ** 應該〜\n- ◆<ruby>悪<rt>わる</rt></ruby>いのは<ruby>君<rt>きみ</rt></ruby>だから、<ruby>謝<rt>あやま</rt></ruby>るべきだ。 錯的是你，應該要道歉。\n**〜べきではない** 不應該〜\n**〜わけだ** 難怪〜\n- ◆<ruby>熱<rt>ねつ</rt></ruby>が40<ruby>度<rt>ど</rt></ruby>もある、<ruby>苦<rt>くる</rt></ruby>しいわけだ。 發燒到 40 度，難怪那麼痛苦。\n**〜わけではない** 並非〜\n- ◆<ruby>嫌<rt>きら</rt></ruby>いなわけではないが、<ruby>甘<rt>あま</rt></ruby>いものはほとんど<ruby>食<rt>た</rt></ruby>べない。 並非討厭，但幾乎不吃甜食。"
+  },
+  {
+    "id": "n3-完勝-q320",
+    "week": 3,
+    "day": 5,
+    "number": 320,
+    "page": 193,
+    "type": "もじ",
+    "question": "すみません、<u>しお</u>を<ruby>取<rt>と</rt></ruby>ってください。",
+    "choices": [
+      "<ruby>砂<rt>すな</rt></ruby>",
+      "<ruby>油<rt>あぶら</rt></ruby>",
+      "<ruby>塩<rt>しお</rt></ruby>",
+      "<ruby>乳<rt>ちち</rt></ruby>"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：不好意思，請幫我拿鹽。\n\n**<ruby>塩<rt>しお</rt></ruby>** しお：鹽\n**サ**：<ruby>砂糖<rt>さとう</rt></ruby> 砂糖\n**すな**：<ruby>砂<rt>すな</rt></ruby> 沙子\n**ニュウ**：<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> 牛奶"
+  },
+  {
+    "id": "n3-完勝-q321",
+    "week": 3,
+    "day": 5,
+    "number": 321,
+    "page": 193,
+    "type": "ごい",
+    "question": "A「<ruby>今<rt>いま</rt></ruby>、お<ruby>茶<rt>ちゃ</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちします。」 B「どうぞ＿＿＿。」",
+    "choices": [
+      "おかまいなく",
+      "ごえんりょなく",
+      "けっこうです",
+      "ご<ruby>苦労様<rt>くろうさま</rt></ruby>です"
+    ],
+    "answer": 0,
+    "explanation": "**中譯**：A「現在幫您送上茶。」 B「請別費心了。」\n\n**おかまいなく** 別招待、別費心\n- ◆A「<ruby>今<rt>いま</rt></ruby>、お<ruby>茶<rt>ちゃ</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちします。」 B「どうぞおかまいなく。」 別費心了\n**<ruby>遠慮<rt>えんりょ</rt></ruby>** 客氣\n- ◆A「〜をどうぞ。」B「<ruby>遠慮<rt>えんりょ</rt></ruby>なくいただきます。」 那我就不客氣了。"
+  },
+  {
+    "id": "n3-完勝-q322",
+    "week": 3,
+    "day": 5,
+    "number": 322,
+    "page": 193,
+    "type": "ぶんぽう",
+    "question": "<ruby>明日<rt>あした</rt></ruby>は<ruby>一年<rt>いちねん</rt></ruby>に<ruby>一回<rt>いっかい</rt></ruby>の<ruby>試験<rt>しけん</rt></ruby>だから、＿＿＿。",
+    "choices": [
+      "<ruby>休<rt>やす</rt></ruby>むわけではない",
+      "<ruby>休<rt>やす</rt></ruby>まないわけにはいかない",
+      "<ruby>休<rt>やす</rt></ruby>むわけにはいかない",
+      "<ruby>休<rt>やす</rt></ruby>まないわけではない"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：明天是一年一次的考試，所以不能休息。\n\n**〜わけにはいかない** (=〜ということはできない 不能〜)\n- ◆<ruby>税金<rt>ぜいきん</rt></ruby>は<ruby>払<rt>はら</rt></ruby>わないわけにはいかない。 稅金不能不繳。\n**〜わけ（が／は）ない** (=〜はず（が）ない 不可能〜)\n- ◆<ruby>先生<rt>せんせい</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られてうれしいわけがない。 被老師罵不可能開心。\n- ◆<ruby>勉強<rt>べんきょう</rt></ruby>しないのだから、<ruby>試験<rt>しけん</rt></ruby>ができるわけはない。 因為沒用功，考試不可能考好。"
+  },
+  {
+    "id": "n3-完勝-q323",
+    "week": 3,
+    "day": 5,
+    "number": 323,
+    "page": 195,
+    "type": "もじ",
+    "question": "<ruby>地球温暖化<rt>ちきゅうおんだんか</rt></ruby>を<u><ruby>防<rt>ふせ</rt></ruby>ぐ</u><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>った。",
+    "choices": [
+      "いそぐ",
+      "おおぐ",
+      "ふせぐ",
+      "かつぐ"
+    ],
+    "answer": 2,
+    "explanation": "**中譯**：討論了預防地球暖化的方法。\n\n**球 キュウ**：<ruby>地球<rt>ちきゅう</rt></ruby> 地球 ／ <ruby>野球<rt>やきゅう</rt></ruby> 棒球 ／ <ruby>電球<rt>でんきゅう</rt></ruby> 燈泡\n**たま**：<ruby>球<rt>たま</rt></ruby> 球\n**化 カ**：<ruby>変化<rt>へんか</rt></ruby>する 變化 ／ <ruby>化学<rt>かがく</rt></ruby> 化學 ／ <ruby>文化<rt>ぶんか</rt></ruby> 文化\n**ば(-ける／-かす)**：<ruby>化粧<rt>けしょう</rt></ruby> 化妝\n**<u>防</u> ボウ**：<ruby>防止<rt>ぼうし</rt></ruby>する 防止 ／ <ruby>予防<rt>よぼう</rt></ruby> 預防\n**ふせ(-ぐ)**：<ruby>防<rt>ふせ</rt></ruby>ぐ 防止"
+  },
+  {
+    "id": "n3-完勝-q324",
+    "week": 3,
+    "day": 5,
+    "number": 324,
+    "page": 195,
+    "type": "ごい",
+    "question": "さあ、あとはねぎを<ruby>細<rt>こま</rt></ruby>かく＿＿＿、のせるだけです。",
+    "choices": [
+      "いためて",
+      "むいて",
+      "むして",
+      "きざんで"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：好，剩下就是把蔥切碎，放上去就好了。\n\n**<ruby>刻<rt>きざ</rt></ruby>む** (きざむ) 切碎、剁碎\n**<ruby>剥<rt>む</rt></ruby>く** (むく) 剝\n- ◆<ruby>皮<rt>かわ</rt></ruby>を<ruby>剥<rt>む</rt></ruby>く 剝皮\n**<ruby>蒸<rt>む</rt></ruby>す** (むす) 蒸\n- ◆シューマイをむす 蒸燒賣\n**<ruby>炒<rt>いた</rt></ruby>める** (いためる) 炒\n- ◆<ruby>野菜<rt>やさい</rt></ruby>をいためる 炒蔬菜\n- ＊ご<ruby>飯<rt>はん</rt></ruby>を<ruby>炊<rt>た</rt></ruby>く 煮飯\n- ＊お<ruby>湯<rt>ゆ</rt></ruby>をわかす 燒開水"
+  },
+  {
+    "id": "n3-完勝-q325",
+    "week": 3,
+    "day": 5,
+    "number": 325,
+    "page": 195,
+    "type": "ぶんぽう",
+    "question": "<ruby>英語<rt>えいご</rt></ruby>は＿＿＿ですが、<ruby>発音<rt>はつおん</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いし<ruby>下手<rt>へた</rt></ruby>なんです。",
+    "choices": [
+      "<ruby>話<rt>はな</rt></ruby>せる",
+      "<ruby>話<rt>はな</rt></ruby>せない",
+      "<ruby>話<rt>はな</rt></ruby>せることもない",
+      "<ruby>話<rt>はな</rt></ruby>せないことはない"
+    ],
+    "answer": 3,
+    "explanation": "**中譯**：英語不是不會說，但發音差又不擅長。\n\n**〜ないことはない／もない** 不是不〜\n- ◆<ruby>肉<rt>にく</rt></ruby>は<ruby>食<rt>た</rt></ruby>べないこともないですが、あんまり<ruby>好<rt>す</rt></ruby>きじゃありません。 我不是不吃肉，只是不太喜歡。\n**〜<ruby>得<rt>え</rt></ruby>る／V<ruby>得<rt>え</rt></ruby>ない** 可能／不可能\n- ◆あり<ruby>得<rt>え</rt></ruby>る (=あるかもしれない 可能)\n- ◆あり<ruby>得<rt>え</rt></ruby>ない (=<ruby>絶対<rt>ぜったい</rt></ruby>にない 不可能)"
   }
 ]
