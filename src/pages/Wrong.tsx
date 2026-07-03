@@ -37,7 +37,14 @@ export default function Wrong() {
           return (
             <div key={q.id} className="rounded-xl bg-slate-900 p-3">
               <div className="mb-1 flex items-center justify-between text-xs text-slate-400">
-                <span>#{q.number}　{q.type}　第{q.week}週D{q.day}</span>
+                <span className="flex items-center gap-2">
+                  <span>#{q.number}　{q.type}　第{q.week}週D{q.day}</span>
+                  {rec.flagged && (
+                    <span className="rounded bg-amber-500/20 px-1.5 py-0.5 text-[10px] font-semibold text-amber-300">
+                      ⚠ 不確定
+                    </span>
+                  )}
+                </span>
                 <span>連對 {rec.consecutiveCorrect}/2</span>
               </div>
               <div className="text-sm">
