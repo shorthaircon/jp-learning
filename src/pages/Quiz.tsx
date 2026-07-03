@@ -16,6 +16,8 @@ export default function Quiz() {
   const [progress, setProgress] = useState<Progress>(() => loadProgress(bookId ?? ''))
 
   // 解析 scope：w{week}d{day}, wrong, all
+  // 注意：只依 book/scope，不依 progress。錯題本模式進入 session 時洗牌一次就固定，
+  // 中途答對脫離錯題本的題目仍留在本次練習裡，避免題目陣列動到、造成錯位。
   const questions = useMemo<Question[]>(() => {
     if (!book) return []
     if (scope === 'wrong') {
@@ -29,7 +31,8 @@ export default function Quiz() {
       return book.questions.filter(q => q.week === w && q.day === d)
     }
     return []
-  }, [book, scope, progress])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [book, scope])
 
   // 起始 index：如果有 ?from=qid 則跳到該題
   const startIdx = useMemo(() => {
